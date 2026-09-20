@@ -38,4 +38,4 @@ Halihazırda Üsküp'te **Kiril ve Metodi Üniversitesi** Yazılım Mühendisli�
 
 *Teknolojiyi kullanan insanlar onu değerli kılar — insanların potansiyelini ortaya çıkaran teknolojiler geliştiriyorum.*
 
-📮 [efe@altiparmak.dev](mailto:efe@altiparmak.dev) · detaylı profil: [efealtiparmakoglu.bananashosting.com](https://efealtiparmakoglu.bananashosting.com)
+📮 [efealtiparmakoglu@bananashosting.com](mailto:efealtiparmakoglu@bananashosting.com) · detaylı profil: [efealtiparmakoglu.bananashosting.com](https://efealtiparmakoglu.bananashosting.com)
