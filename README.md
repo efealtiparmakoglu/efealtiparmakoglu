@@ -18,6 +18,38 @@ Halihazırda Üsküp'te **Kiril ve Metodi Üniversitesi** Yazılım Mühendisli�
 - 🔐 **Siber Güvenlik & AI** — alanları yakından takip ediyor, uygulamaya döküyorum
 - 🎤 **Konuşmacı & Mentor** — teknoloji konferansları + genç girişimcilere mentorluk
 
+
+## 🎬 JSON → Cinema serisi — prosedürel portfolio
+
+Tek JSON dosyası ver, sinematik çıktı al. Üç repo, üç farklı mühendislik alanı:
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/fluid-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/fluid-cinema/main/renders/fire_preview.gif" width="100%" alt="fluid-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/fluid-cinema">fluid-cinema</a></b><br/>
+      <sub>2B Navier–Stokes akışkan simülasyonu — alev, girdap, bulutsu. Sıfırdan Stable Fluids (NumPy).</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/maze-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/maze-cinema/main/renders/colossus.gif" width="100%" alt="maze-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/maze-cinema">maze-cinema</a></b><br/>
+      <sub>Labirentte A*, Dijkstra, BFS, Greedy ve Duvar-Takipçi yarışııyor. Sıfır bağımlılık, elle PNG yazıcı.</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/blender-json-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/blender-json-cinema/main/assets/profile.png" width="100%" alt="blender-json-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/blender-json-cinema">blender-json-cinema</a></b><br/>
+      <sub>JSON'dan Cycles sinematik render: prosedürel arazi, hacimsel sis, 160 bin parçacık, Metal GPU.</sub>
+    </td>
+  </tr>
+</table>
+
+
 ## Yolculuk
 
 | Dönem | |
