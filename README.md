@@ -27,24 +27,47 @@ Tek JSON dosyası ver, sinematik çıktı al. Üç repo, üç farklı mühendisl
   <tr>
     <td width="33%" align="center">
       <a href="https://github.com/efealtiparmakoglu/fluid-cinema">
-        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/fluid-cinema/main/renders/fire_preview.gif" width="100%" alt="fluid-cinema"/>
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/fluid-cinema/main/renders/fire_profile.gif" width="100%" alt="fluid-cinema"/>
       </a>
       <b><a href="https://github.com/efealtiparmakoglu/fluid-cinema">fluid-cinema</a></b><br/>
       <sub>2B Navier–Stokes akışkan simülasyonu — alev, girdap, bulutsu. Sıfırdan Stable Fluids (NumPy).</sub>
     </td>
     <td width="33%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/ray-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/ray-cinema/main/renders/sunset.png" width="100%" alt="ray-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/ray-cinema">ray-cinema</a></b><br/>
+      <sub>Sıfırdan Monte Carlo path tracer — cam, metal, DOF, ACES; 9 fizik doğrulama kapısı.</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/silicon-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/silicon-cinema/main/renders/starfield.gif" width="100%" alt="silicon-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/silicon-cinema">silicon-cinema</a></b><br/>
+      <sub>Kendi CPU'su + assembler + derleyicisi olan bilgisayar — 3.8 milyar taklit komut, diferansiyel testli.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
       <a href="https://github.com/efealtiparmakoglu/maze-cinema">
         <img src="https://raw.githubusercontent.com/efealtiparmakoglu/maze-cinema/main/renders/colossus.gif" width="100%" alt="maze-cinema"/>
       </a>
       <b><a href="https://github.com/efealtiparmakoglu/maze-cinema">maze-cinema</a></b><br/>
-      <sub>Labirentte A*, Dijkstra, BFS, Greedy ve Duvar-Takipçi yarışııyor. Sıfır bağımlılık, elle PNG yazıcı.</sub>
+      <sub>Labirentte A*, Dijkstra, BFS, Greedy ve Duvar-Takipçi yarışııyor. Sıfır bağımlılık.</sub>
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/efealtiparmakoglu/blender-json-cinema">
         <img src="https://raw.githubusercontent.com/efealtiparmakoglu/blender-json-cinema/main/assets/profile.png" width="100%" alt="blender-json-cinema"/>
       </a>
       <b><a href="https://github.com/efealtiparmakoglu/blender-json-cinema">blender-json-cinema</a></b><br/>
-      <sub>JSON'dan Cycles sinematik render: prosedürel arazi, hacimsel sis, 160 bin parçacık, Metal GPU.</sub>
+      <sub>JSON'dan Cycles sinematik render: prosedürel arazi, hacimsel sis, 160 bin parçacık.</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/efealtiparmakoglu?tab=repositories">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/maze-cinema/main/renders/classic.gif" width="100%" alt="daha fazlasi"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu?tab=repositories">... ve digerleri</a></b><br/>
+      <sub>Labirent yarışları, akışkanlar, fraktallar — serinin tamamı repolarda.</sub>
     </td>
   </tr>
 </table>
