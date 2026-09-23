@@ -53,7 +53,7 @@ Tek JSON dosyası ver, sinematik çıktı al. Üç repo, üç farklı mühendisl
         <img src="https://raw.githubusercontent.com/efealtiparmakoglu/maze-cinema/main/renders/colossus.gif" width="100%" alt="maze-cinema"/>
       </a>
       <b><a href="https://github.com/efealtiparmakoglu/maze-cinema">maze-cinema</a></b><br/>
-      <sub>Labirentte A*, Dijkstra, BFS, Greedy ve Duvar-Takipçi yarışııyor. Sıfır bağımlılık.</sub>
+      <sub>Labirentte A*, Dijkstra, BFS, Greedy ve Duvar Takipçisi yarışıyor. Sıfır bağımlılık.</sub>
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/efealtiparmakoglu/blender-json-cinema">
