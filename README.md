@@ -16,62 +16,146 @@ Halihazırda Üsküp'te **Kiril ve Metodi Üniversitesi** Yazılım Mühendisli�
 - 🍌 **Bananas Hosting** — kurucu ortak: sunucu altyapısı, Linux sistem yönetimi, müşteri ilişkileri
 - 🖥️ **Backend & Altyapı** — Linux, Docker, Nginx, bulut bilişim (AWS/Azure), otomasyon
 - 🔐 **Siber Güvenlik & AI** — alanları yakından takip ediyor, uygulamaya döküyorum
-- 🎤 **Konuşmacı & Mentor** — teknoloji konferansları + genç girişimcilere mentorluk
+- 🎬 **Prosedürel sinema serisi** — görsel mühendislik projeleri, aşağıda 👇
 
+---
 
-## 🎬 JSON → Cinema serisi — prosedürel portfolio
+## 🎬 Prosedürel sinema serisi
 
-Tek JSON dosyası ver, sinematik çıktı al. Üç repo, üç farklı mühendislik alanı:
+Kural hep aynı: **sıfırdan motor, ölçülebilir fizik, tek komutla render.** Hiçbirinde hazır asset yok — her parça kodla inşa edilir, her iddia bir doğrulama kapısından geçer.
+
+### 🛤️ Demiryolu üçlemesi — en yeni
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <a href="https://github.com/efealtiparmakoglu/fluid-cinema">
-        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/fluid-cinema/main/renders/fire_profile.gif" width="100%" alt="fluid-cinema"/>
+      <a href="https://github.com/efealtiparmakoglu/rail-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/rail-cinema/master/renders/yay_kirsasi.png" width="100%" alt="rail-cinema"/>
       </a>
-      <b><a href="https://github.com/efealtiparmakoglu/fluid-cinema">fluid-cinema</a></b><br/>
-      <sub>2B Navier–Stokes akışkan simülasyonu — alev, girdap, bulutsu. Sıfırdan Stable Fluids (NumPy).</sub>
+      <b><a href="https://github.com/efealtiparmakoglu/rail-cinema">rail-cinema</a></b><br/>
+      <sub>Sonsuz demiryolu üreteci — UIC-60 ray profili, katoneri, h = 11.8v²/R süpereleyisyon. 6 fizik kapısı.</sub>
     </td>
     <td width="33%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/train-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/train-cinema/master/renders/lokomotif_hero.png" width="100%" alt="train-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/train-cinema">train-cinema</a></b><br/>
+      <sub>Çalışan buharlı lokomotif — slider-crank kinematiği, 90° quartering, piston stroku tam 2r. Anahtar kare yok.</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/railway-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/railway-cinema/master/renders/buyuk_sefer.png" width="100%" alt="railway-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/railway-cinema">railway-cinema</a></b><br/>
+      <sub>Birleşim: fonksiyonel katar mühendislikli hatta çıkar — kaysız yuvarlanma θ = s/r, viraj yatışı, gece farı.</sub>
+    </td>
+  </tr>
+</table>
+
+### 🌊 Deniz & 🏎️ Hız/Uçuş
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/ocean-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/ocean-cinema/main/renders/gunbatimi_v2_hd.png" width="100%" alt="ocean-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/ocean-cinema">ocean-cinema</a></b><br/>
+      <sub>Gerstner dalga denizi — dispersiyon ω = √(gk), köpük, glitter. 2B + 3B Cycles motor.</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/ship-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/ship-cinema/main/renders/tanker_firtina_3d.png" width="100%" alt="ship-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/ship-cinema">ship-cinema</a></b><br/>
+      <sub>Loft gövdeli gemiler ocean motorunda — heave + pitch + roll, dalga gemiyi taşır.</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/f1-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/f1-cinema/main/renders/hero.png" width="100%" alt="f1-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/f1-cinema">f1-cinema</a></b><br/>
+      <sub>Parametrik 2024 F1 aracı — ~110 prosedürel parça, FIA boyut kapısı 7/7 otomatik doğrulanır.</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/f16-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/f16-cinema/main/renders/hero.png" width="100%" alt="f16-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/f16-cinema">f16-cinema</a></b><br/>
+      <sub>F-16C — 16 kesitli loft gövde, art yakıcı flicker'ı, bulutlardan uçuş; spec ölçümü ±toleranslı.</sub>
+    </td>
+  </tr>
+</table>
+
+### ⚛️ Fizik motorları — sıfırdan
+
+<table>
+  <tr>
+    <td width="25%" align="center">
       <a href="https://github.com/efealtiparmakoglu/ray-cinema">
         <img src="https://raw.githubusercontent.com/efealtiparmakoglu/ray-cinema/main/renders/sunset.png" width="100%" alt="ray-cinema"/>
       </a>
       <b><a href="https://github.com/efealtiparmakoglu/ray-cinema">ray-cinema</a></b><br/>
-      <sub>Sıfırdan Monte Carlo path tracer — cam, metal, DOF, ACES; 9 fizik doğrulama kapısı.</sub>
+      <sub>Sıfırdan Monte Carlo path tracer — cam, metal, DOF, ACES; 9 analitik fizik kapısı.</sub>
     </td>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/fluid-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/fluid-cinema/main/renders/fire_profile.gif" width="100%" alt="fluid-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/fluid-cinema">fluid-cinema</a></b><br/>
+      <sub>2B Navier–Stokes — alev, girdap sokağı, bulutsu. Stable Fluids sıfırdan (NumPy).</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/quantum-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/quantum-cinema/main/renders/grover20.gif" width="100%" alt="quantum-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/quantum-cinema">quantum-cinema</a></b><br/>
+      <sub>26 kübit statevector + 2B Schrödinger motoru — Grover, QFT, Shor-15; diferansiyel testli.</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/cosmos-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/cosmos-cinema/main/renders/collision.png" width="100%" alt="cosmos-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/cosmos-cinema">cosmos-cinema</a></b><br/>
+      <sub>N-kütle galaksi çarpışması — leapfrog + doğrudan özetleme; enerji/momentum korunumu doğrulanır.</sub>
+    </td>
+  </tr>
+</table>
+
+### 🧠 Bilgisayar & algoritmalar
+
+<table>
+  <tr>
+    <td width="25%" align="center">
       <a href="https://github.com/efealtiparmakoglu/silicon-cinema">
         <img src="https://raw.githubusercontent.com/efealtiparmakoglu/silicon-cinema/main/renders/starfield.gif" width="100%" alt="silicon-cinema"/>
       </a>
       <b><a href="https://github.com/efealtiparmakoglu/silicon-cinema">silicon-cinema</a></b><br/>
       <sub>Kendi CPU'su + assembler + derleyicisi olan bilgisayar — 3.8 milyar taklit komut, diferansiyel testli.</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
       <a href="https://github.com/efealtiparmakoglu/maze-cinema">
         <img src="https://raw.githubusercontent.com/efealtiparmakoglu/maze-cinema/main/renders/colossus.gif" width="100%" alt="maze-cinema"/>
       </a>
       <b><a href="https://github.com/efealtiparmakoglu/maze-cinema">maze-cinema</a></b><br/>
-      <sub>Labirentte A*, Dijkstra, BFS, Greedy ve Duvar Takipçisi yarışıyor. Sıfır bağımlılık.</sub>
+      <sub>Labirentte A*, Dijkstra, BFS yarışıyor — saf stdlib, sıfır bağımlılık, her piksel elle.</sub>
     </td>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
       <a href="https://github.com/efealtiparmakoglu/blender-json-cinema">
         <img src="https://raw.githubusercontent.com/efealtiparmakoglu/blender-json-cinema/main/assets/profile.png" width="100%" alt="blender-json-cinema"/>
       </a>
       <b><a href="https://github.com/efealtiparmakoglu/blender-json-cinema">blender-json-cinema</a></b><br/>
-      <sub>JSON'dan Cycles sinematik render: prosedürel arazi, hacimsel sis, 160 bin parçacık.</sub>
+      <sub>Serinin başlangıcı: JSON'dan Cycles render — prosedürel arazi, hacimsel sis, 160 bin parçacık.</sub>
     </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/efealtiparmakoglu?tab=repositories">
-        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/maze-cinema/main/renders/classic.gif" width="100%" alt="daha fazlasi"/>
+    <td width="25%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/lzf">
+        <img src="https://img.shields.io/badge/Rust-LZ77%20%2B%20Huffman-orange?style=for-the-badge" width="60%" alt="lzf"/>
       </a>
-      <b><a href="https://github.com/efealtiparmakoglu?tab=repositories">... ve digerleri</a></b><br/>
-      <sub>Labirent yarışları, akışkanlar, fraktallar — serinin tamamı repolarda.</sub>
+      <b><a href="https://github.com/efealtiparmakoglu/lzf">lzf</a></b><br/>
+      <sub>Sıfır bağımlılıklı dosya sıkıştırıcı — saf Rust, kendi LZF1 konteyner formatı.</sub>
     </td>
   </tr>
 </table>
-
 
 ## Yolculuk
 
@@ -86,8 +170,8 @@ Tek JSON dosyası ver, sinematik çıktı al. Üç repo, üç farklı mühendisl
 
 **Sistem:** Linux · Docker · Nginx · shell scripting
 **Bulut:** AWS · Azure · VDS/NAS yönetimi · CI/CD
-**Yazılım:** Python · PHP · JavaScript · Swift (iOS)
-**İlgi:** yapay zeka · siber güvenlik · dağıtık sistemler
+**Yazılım:** Python · PHP · JavaScript · Swift (iOS) · Rust
+**İlgi:** yapay zeka · siber güvenlik · dağıtık sistemler · bilgisayar grafikleri
 
 ---
 
