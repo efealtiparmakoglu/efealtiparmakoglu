@@ -24,7 +24,35 @@ Halihazırda Üsküp'te **Kiril ve Metodi Üniversitesi** Yazılım Mühendisli�
 
 Kural hep aynı: **sıfırdan motor, ölçülebilir fizik, tek komutla render.** Hiçbirinde hazır asset yok — her parça kodla inşa edilir, her iddia bir doğrulama kapısından geçer.
 
-### 🚀 Fırlatma üçlemesi — en yeni
+### 🌕 Ay üçlemesi — en yeni
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/lander-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/lander-cinema/master/renders/lander_hero.png" width="100%" alt="lander-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/lander-cinema">lander-cinema</a></b><br/>
+      <sub>İnen Ay modülü — suicide burn rehberi: 1.00 m/s temas, %96 yakıt marjı, retrograd eğim. 7 kapı.</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/terrain-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/terrain-cinema/master/renders/dunya_dogusu.png" width="100%" alt="terrain-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/terrain-cinema">terrain-cinema</a></b><br/>
+      <sub>Matematikten Ay — krater kase-kaldırım-ejecta profilleri, 0.5° sert güneş, siyah gökyüzü, mavi Dünya.</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/touchdown-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/touchdown-cinema/master/renders/dokunma.png" width="100%" alt="touchdown-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/touchdown-cinema">touchdown-cinema</a></b><br/>
+      <sub>İnişin kendisi — son 6 saniye gerçek zamanda; temas karesinde regolit spreyi, arkada Dünya.</sub>
+    </td>
+  </tr>
+</table>
+
+### 🚀 Fırlatma üçlemesi
 
 <table>
   <tr>
