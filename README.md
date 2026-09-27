@@ -24,7 +24,35 @@ Halihazırda Üsküp'te **Kiril ve Metodi Üniversitesi** Yazılım Mühendisli�
 
 Kural hep aynı: **sıfırdan motor, ölçülebilir fizik, tek komutla render.** Hiçbirinde hazır asset yok — her parça kodla inşa edilir, her iddia bir doğrulama kapısından geçer.
 
-### 🛤️ Demiryolu üçlemesi — en yeni
+### 🚀 Fırlatma üçlemesi — en yeni
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/pad-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/pad-cinema/master/renders/kule_gece.png" width="100%" alt="pad-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/pad-cinema">pad-cinema</a></b><br/>
+      <sub>Fırlatma kompleksi — kafes kule, servis kolları, alev kanalı (32° deflektör), su hattı. 8 geometri kapısı.</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/rocket-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/rocket-cinema/master/renders/roket_hero.png" width="100%" alt="rocket-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/rocket-cinema">rocket-cinema</a></b><br/>
+      <sub>Uçan iki kademeli roket — yükseliş ODE'si, gimbal motor, kademe ayrılması; Δv = Tsiolkovsky %0.003.</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/orbit-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/orbit-cinema/master/renders/gece_firlatma.png" width="100%" alt="orbit-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/orbit-cinema">orbit-cinema</a></b><br/>
+      <sub>Gece fırlatışı — yükseklik uçuş ODE'sinden, yer buharı hacimsel, plume ışığı padde.</sub>
+    </td>
+  </tr>
+</table>
+
+### 🛤️ Demiryolu üçlemesi
 
 <table>
   <tr>
