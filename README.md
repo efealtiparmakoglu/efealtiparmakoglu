@@ -20,6 +20,10 @@ Halihazırda Üsküp'te **Kiril ve Metodi Üniversitesi** Yazılım Mühendisli�
 
 ---
 
+## ⚡ Çalışan demo — [wavecraft](https://efealtiparmakoglu.github.io/wavecraft)
+
+Tarayıcıda 60 fps **Gerstner denizi** — her dalga treni kendi dispersiyonuyla (ω = √(g·k)), shader'da choppiness + fresnel + güneş glitter'ı. Deniz **sesli**: kazancı canlı tepe yüksekliğini takip eden filtrelenmiş gürültü. Sürükle: yön · tekerlek: hız · tık: ses. *Tek HTML dosyası, sıfır bağımlılık.*
+
 ## 🎬 Prosedürel sinema serisi
 
 Kural hep aynı: **sıfırdan motor, ölçülebilir fizik, tek komutla render.** Hiçbirinde hazır asset yok — her parça kodla inşa edilir, her iddia bir doğrulama kapısından geçer.
