@@ -17,6 +17,7 @@ Halihazırda Üsküp'te **Kiril ve Metodi Üniversitesi** Yazılım Mühendisli�
 - 🖥️ **Backend & Altyapı** — Linux, Docker, Nginx, bulut bilişim (AWS/Azure), otomasyon
 - 🔐 **Siber Güvenlik & AI** — alanları yakından takip ediyor, uygulamaya döküyorum
 - 🎬 **Prosedürel sinema serisi** — görsel mühendislik projeleri, aşağıda 👇
+- 🦿 **Blender makineleri** — gerçek kinematikle çalışan kurulabilir add-on'lar (Jansen yürüyücüsü, Kepler orrery'si)
 
 ---
 
@@ -26,7 +27,7 @@ Tarayıcıda 60 fps **Gerstner denizi** — her dalga treni kendi dispersiyonuyl
 
 ## 🎬 Prosedürel sinema serisi
 
-Kural hep aynı: **sıfırdan motor, ölçülebilir fizik, tek komutla render.** Hiçbirinde hazır asset yok — her parça kodla inşa edilir, her iddia bir doğrulama kapısından geçer.
+Kural hep aynı: **sıfırdan motor, ölçülebilir fizik, tek komutla render.** Hiçbirinde hazır asset yok — her parça kodla inşa edilir, her iddia bir doğrulama kapısından geçer. Blender makinelerinde de aynı sözleşme: mekanizma çözümü saf Python'da, anahtarlar gerçek çözümden, easing yasak.
 
 ### 🌕 Ay üçlemesi — en yeni
 
@@ -182,6 +183,35 @@ Kural hep aynı: **sıfırdan motor, ölçülebilir fizik, tek komutla render.**
   </tr>
 </table>
 
+### ⚙️ Blender makineleri — gerçek kinematik
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/blender-json-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/blender-json-cinema/main/assets/profile.png" width="100%" alt="blender-json-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/blender-json-cinema">blender-json-cinema</a></b><br/>
+      <sub>Serinin başlangıcı: JSON'dan Cycles render — prosedürel arazi, hacimsel sis, 160 bin parçacık; 8 dünya + kamera flythrough.</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/linkage-studio">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/linkage-studio/main/renders/walk_profile.gif" width="100%" alt="linkage-studio"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/linkage-studio">linkage-studio</a></b><br/>
+      <sub>Jansen bacaklı yürüyen makine add-on'u — 11 çubuk kapalı-form kinematik, 6 kapı, easing yok.</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/kepler-orrery">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/kepler-orrery/main/renders/orrery_profile.gif" width="100%" alt="kepler-orrery"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/kepler-orrery">kepler-orrery</a></b><br/>
+      <sub>Gerçek Kepler denklemiyle dönen pirinç orrery — günberi hızlı, izler gerçek elips; 6 kapı.</sub>
+    </td>
+    <td width="25%" align="center"></td>
+  </tr>
+</table>
+
 ### 🧠 Bilgisayar & algoritmalar
 
 <table>
@@ -201,19 +231,13 @@ Kural hep aynı: **sıfırdan motor, ölçülebilir fizik, tek komutla render.**
       <sub>Labirentte A*, Dijkstra, BFS yarışıyor — saf stdlib, sıfır bağımlılık, her piksel elle.</sub>
     </td>
     <td width="25%" align="center">
-      <a href="https://github.com/efealtiparmakoglu/blender-json-cinema">
-        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/blender-json-cinema/main/assets/profile.png" width="100%" alt="blender-json-cinema"/>
-      </a>
-      <b><a href="https://github.com/efealtiparmakoglu/blender-json-cinema">blender-json-cinema</a></b><br/>
-      <sub>Serinin başlangıcı: JSON'dan Cycles render — prosedürel arazi, hacimsel sis, 160 bin parçacık.</sub>
-    </td>
-    <td width="25%" align="center">
       <a href="https://github.com/efealtiparmakoglu/lzf">
         <img src="https://img.shields.io/badge/Rust-LZ77%20%2B%20Huffman-orange?style=for-the-badge" width="60%" alt="lzf"/>
       </a>
       <b><a href="https://github.com/efealtiparmakoglu/lzf">lzf</a></b><br/>
       <sub>Sıfır bağımlılıklı dosya sıkıştırıcı — saf Rust, kendi LZF1 konteyner formatı.</sub>
     </td>
+    <td width="25%" align="center"></td>
   </tr>
 </table>
 
