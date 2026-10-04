@@ -17,7 +17,8 @@ Halihazırda Üsküp'te **Kiril ve Metodi Üniversitesi** Yazılım Mühendisli�
 - 🖥️ **Backend & Altyapı** — Linux, Docker, Nginx, bulut bilişim (AWS/Azure), otomasyon
 - 🔐 **Siber Güvenlik & AI** — alanları yakından takip ediyor, uygulamaya döküyorum
 - 🎬 **Prosedürel sinema serisi** — görsel mühendislik projeleri, aşağıda 👇
-- 🦿 **Blender makineleri** — gerçek kinematikle çalışan kurulabilir add-on'lar (Jansen yürüyücüsü, Kepler orrery'si)
+- 🦿 **Blender makineleri** — gerçek kinematikle çalışan kurulabilir add-on'lar (Jansen yürüyücüsü, Kepler orrery'si, geodezik kara delik)
+- 🦋 **Kaos stüdyosu** — çift sarkaçların neon imzaları: iz = gerçek RK4 yörüngesi
 
 ---
 
@@ -215,6 +216,23 @@ Kural hep aynı: **sıfırdan motor, ölçülebilir fizik, tek komutla render.**
       <b><a href="https://github.com/efealtiparmakoglu/gargantua-cinema">gargantua-cinema</a></b><br/>
       <sub>Schwarzschild geodezikleriyle kara delik — piksel piksel ışık bükülmesi, doppler'lı akresyon diski; 6 kapı.</sub>
     </td>
+  </tr>
+</table>
+
+### 🦋 Kaos & emergent
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/kaos-atolyesi">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/kaos-atolyesi/main/renders/chaos_profile.gif" width="100%" alt="kaos-atolyesi"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/kaos-atolyesi">kaos-atolyesi</a></b><br/>
+      <sub>Çift sarkaçların neon imzaları — izler gerçek RK4 yörüngesi; 1e-9 farklı ikizler sonsuza dek ayrılır; 5 kapı.</sub>
+    </td>
+    <td width="25%" align="center"></td>
+    <td width="25%" align="center"></td>
+    <td width="25%" align="center"></td>
   </tr>
 </table>
 
