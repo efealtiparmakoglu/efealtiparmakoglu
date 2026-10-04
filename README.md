@@ -208,7 +208,13 @@ Kural hep aynı: **sıfırdan motor, ölçülebilir fizik, tek komutla render.**
       <b><a href="https://github.com/efealtiparmakoglu/kepler-orrery">kepler-orrery</a></b><br/>
       <sub>Gerçek Kepler denklemiyle dönen pirinç orrery — günberi hızlı, izler gerçek elips; 6 kapı.</sub>
     </td>
-    <td width="25%" align="center"></td>
+    <td width="25%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/gargantua-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/gargantua-cinema/main/renders/gargantua_profile.gif" width="100%" alt="gargantua-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/gargantua-cinema">gargantua-cinema</a></b><br/>
+      <sub>Schwarzschild geodezikleriyle kara delik — piksel piksel ışık bükülmesi, doppler'lı akresyon diski; 6 kapı.</sub>
+    </td>
   </tr>
 </table>
 
