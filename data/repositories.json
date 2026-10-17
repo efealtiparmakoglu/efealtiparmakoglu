@@ -1,0 +1,2674 @@
+[
+  {
+    "name": "2048-terminal",
+    "url": "https://github.com/efealtiparmakoglu/2048-terminal",
+    "description": "2048 in the terminal — the rules separated from the front end so they can be tested, ANSI colours, n",
+    "language": "C",
+    "topics": [
+      "c",
+      "game",
+      "puzzle"
+    ],
+    "empty": false
+  },
+  {
+    "name": "aes-vis",
+    "url": "https://github.com/efealtiparmakoglu/aes-vis",
+    "description": "AES-128 step-by-step visualizer — GF(2^8) arithmetic, a runtime-generated S-box, the key schedule, a",
+    "language": "TypeScript",
+    "topics": [
+      "aes",
+      "cryptography",
+      "education",
+      "security",
+      "typescript"
+    ],
+    "empty": false
+  },
+  {
+    "name": "api-mock",
+    "url": "https://github.com/efealtiparmakoglu/api-mock",
+    "description": "Run a local REST mock server from one JSON file — pure Go stdlib,",
+    "language": "Go",
+    "topics": [
+      "developer-tools",
+      "go"
+    ],
+    "empty": false
+  },
+  {
+    "name": "backupry",
+    "url": "https://github.com/efealtiparmakoglu/backupry",
+    "description": "rsync backup profile manager — named profiles, run history, sha256 integrity verification, retention",
+    "language": "Python",
+    "topics": [
+      "automation",
+      "backup",
+      "python"
+    ],
+    "empty": false
+  },
+  {
+    "name": "bigint",
+    "url": "https://github.com/efealtiparmakoglu/bigint",
+    "description": "Arbitrary-precision signed integers in C11 — sign/magnitude over",
+    "language": "C",
+    "topics": [
+      "algorithms",
+      "c",
+      "education"
+    ],
+    "empty": false
+  },
+  {
+    "name": "blender-json-cinema",
+    "url": "https://github.com/efealtiparmakoglu/blender-json-cinema",
+    "description": "JSON-driven procedural cinematic scene generator for Blender (Cycles) — one JSON in, one cinematic render out. No assets, no add-ons, 100% procedural.",
+    "language": "Python",
+    "topics": [
+      "3d",
+      "blender",
+      "procedural-generation",
+      "rendering",
+      "simulation"
+    ],
+    "empty": false
+  },
+  {
+    "name": "brickbreaker",
+    "url": "https://github.com/efealtiparmakoglu/brickbreaker",
+    "description": "Procedural brick-breaker — deterministic frame simulation, seeded",
+    "language": "Python",
+    "topics": [
+      "game",
+      "linux"
+    ],
+    "empty": false
+  },
+  {
+    "name": "bytecode-vm",
+    "url": "https://github.com/efealtiparmakoglu/bytecode-vm",
+    "description": "A stack bytecode VM in pure C — assembler, disassembler, interpreter, 17 opcodes. Zero dependencies.",
+    "language": "C",
+    "topics": [
+      "c",
+      "developer-tools",
+      "interpreter",
+      "vm"
+    ],
+    "empty": false
+  },
+  {
+    "name": "calendar-ics",
+    "url": "https://github.com/efealtiparmakoglu/calendar-ics",
+    "description": "iCalendar (RFC 5545) writer/parser in Go — recurrence expansion, conflict detection, folded lines. S",
+    "language": "Go",
+    "topics": [
+      "calendar",
+      "data",
+      "go",
+      "ical"
+    ],
+    "empty": false
+  },
+  {
+    "name": "cert-inspect",
+    "url": "https://github.com/efealtiparmakoglu/cert-inspect",
+    "description": "TLS/X.509 certificate inspector — summarize PEM/DER files or a live host's chain, order the chain, v",
+    "language": "Go",
+    "topics": [
+      "go",
+      "systems"
+    ],
+    "empty": false
+  },
+  {
+    "name": "chess-engine",
+    "url": "https://github.com/efealtiparmakoglu/chess-engine",
+    "description": "Chess move generation verified by perft, an alpha-beta search",
+    "language": "Rust",
+    "topics": [
+      "game",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "cipher-studio",
+    "url": "https://github.com/efealtiparmakoglu/cipher-studio",
+    "description": "Classical cipher workbench — six ciphers, the statistics that break them, and attacks that actually ",
+    "language": "Python",
+    "topics": [
+      "cryptography",
+      "education",
+      "python",
+      "security"
+    ],
+    "empty": false
+  },
+  {
+    "name": "cliphist-lite",
+    "url": "https://github.com/efealtiparmakoglu/cliphist-lite",
+    "description": "Minimal clipboard history manager in pure Go — watch, list, search, copy-back. Zero dependencies.",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "go",
+      "terminal"
+    ],
+    "empty": false
+  },
+  {
+    "name": "coldiff",
+    "url": "https://github.com/efealtiparmakoglu/coldiff",
+    "description": "Column-aware CSV diff — added / removed / changed rows with cell-level old → new values.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "csv",
+      "diff",
+      "python",
+      "terminal"
+    ],
+    "empty": false
+  },
+  {
+    "name": "commitlint-tr",
+    "url": "https://github.com/efealtiparmakoglu/commitlint-tr",
+    "description": "Conventional commit message linter. Zero dependencies.",
+    "language": "Python",
+    "topics": [
+      "conventional-commits",
+      "developer-tools",
+      "git",
+      "hooks"
+    ],
+    "empty": false
+  },
+  {
+    "name": "cosmos-cinema",
+    "url": "https://github.com/efealtiparmakoglu/cosmos-cinema",
+    "description": "Gravitational N-body galaxy collision simulator from scratch — direct summation + leapfrog in NumPy, billions of pair interactions filmed as GIFs. Energy/momentum verified.",
+    "language": "Python",
+    "topics": [
+      "3d",
+      "blender",
+      "procedural-generation",
+      "rendering",
+      "simulation"
+    ],
+    "empty": false
+  },
+  {
+    "name": "cronview",
+    "url": "https://github.com/efealtiparmakoglu/cronview",
+    "description": "Crontab lines to human language with next-run calculation, validation and a tiny web demo — TypeScri",
+    "language": "TypeScript",
+    "topics": [
+      "automation",
+      "scheduling",
+      "systems",
+      "typescript"
+    ],
+    "empty": false
+  },
+  {
+    "name": "csv-visualizer",
+    "url": "https://github.com/efealtiparmakoglu/csv-visualizer",
+    "description": "Drag-and-drop CSV charting — entirely client-side, no uploads, no",
+    "language": null,
+    "topics": [
+      "csv",
+      "typescript",
+      "web"
+    ],
+    "empty": false
+  },
+  {
+    "name": "csvq",
+    "url": "https://github.com/efealtiparmakoglu/csvq",
+    "description": "Query CSV files with a SQL subset — a hand-written SQL engine in pure Python, zero dependencies.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "csv",
+      "python",
+      "sql",
+      "terminal"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dama-turk",
+    "url": "https://github.com/efealtiparmakoglu/dama-turk",
+    "description": "Türk daması (Turkish draughts) — fixed-ruleset engine with a minimax",
+    "language": "Python",
+    "topics": [
+      "board-game",
+      "game",
+      "python"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dedup",
+    "url": "https://github.com/efealtiparmakoglu/dedup",
+    "description": "A content-hash duplicate file finder in pure Go — fast xxh64 pre-pass, SHA-256 verified, zero depend",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "go",
+      "hashing",
+      "terminal"
+    ],
+    "empty": false
+  },
+  {
+    "name": "depgraph",
+    "url": "https://github.com/efealtiparmakoglu/depgraph",
+    "description": "Offline dependency-graph visualizer for npm / Go / Cargo trees.",
+    "language": "TypeScript",
+    "topics": [
+      "developer-tools",
+      "typescript"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dictz",
+    "url": "https://github.com/efealtiparmakoglu/dictz",
+    "description": "Offline dictionary lookup over plain TSV files — exact, prefix and fuzzy search. Zero dependencies.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "python",
+      "terminal"
+    ],
+    "empty": false
+  },
+  {
+    "name": "diffpng",
+    "url": "https://github.com/efealtiparmakoglu/diffpng",
+    "description": "Pixel-diff two PNGs into a heatmap image and a percent score —",
+    "language": "Rust",
+    "topics": [
+      "developer-tools",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dnsprobe",
+    "url": "https://github.com/efealtiparmakoglu/dnsprobe",
+    "description": "Educational DNS resolver in pure Python — hand-built wire format, iterative referral walking from th",
+    "language": "Python",
+    "topics": [
+      "dns",
+      "networking",
+      "python",
+      "systems"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyaacar",
+    "url": "https://github.com/efealtiparmakoglu/dosyaacar",
+    "description": "Preview and extract archives detected by magic bytes with member selection and path-traversal protection.",
+    "language": "Python",
+    "topics": [
+      "archiving",
+      "cli",
+      "file-management",
+      "python",
+      "security"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyaadimlar",
+    "url": "https://github.com/efealtiparmakoglu/dosyaadimlar",
+    "description": "Execute declared filesystem steps, record JSONL traces and replay input/output content-hash checks.",
+    "language": "Go",
+    "topics": [
+      "checksums",
+      "cli",
+      "golang",
+      "task-runner",
+      "tracing"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyaadlandirir",
+    "url": "https://github.com/efealtiparmakoglu/dosyaadlandirir",
+    "description": "Template-based batch renamer for files and directories with deterministic collisions and journal-based undo.",
+    "language": "Go",
+    "topics": [
+      "automation",
+      "batch-rename",
+      "cli",
+      "file-management",
+      "golang"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyabicimler",
+    "url": "https://github.com/efealtiparmakoglu/dosyabicimler",
+    "description": "Deterministic text formatter with ordered rules for whitespace, indentation, case and final newlines.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "command-line",
+      "formatter",
+      "python",
+      "text-processing"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyabirlestirir",
+    "url": "https://github.com/efealtiparmakoglu/dosyabirlestirir",
+    "description": "Reassemble ordered file parts with gap detection, optional SHA-256 manifest checks and atomic output.",
+    "language": "Rust",
+    "topics": [
+      "checksums",
+      "cli",
+      "file-management",
+      "file-splitting",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyaboler",
+    "url": "https://github.com/efealtiparmakoglu/dosyaboler",
+    "description": "Split large files into checksummed chunks and rejoin them using a verified JSON manifest.",
+    "language": "Go",
+    "topics": [
+      "checksums",
+      "cli",
+      "file-management",
+      "file-splitting",
+      "golang"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyabul",
+    "url": "https://github.com/efealtiparmakoglu/dosyabul",
+    "description": "Find files by combined name globs, literal content, size bounds and modification dates.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "command-line",
+      "file-management",
+      "file-search",
+      "python"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyacevirir",
+    "url": "https://github.com/efealtiparmakoglu/dosyacevirir",
+    "description": "Convert flat records between JSON, JSONL and CSV with schema coercion and per-row error reports.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "csv",
+      "data-conversion",
+      "jsonl",
+      "python"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyadegistirir",
+    "url": "https://github.com/efealtiparmakoglu/dosyadegistirir",
+    "description": "Apply line-oriented text rewrite rules across file trees with preview reports and reversible edits.",
+    "language": "Rust",
+    "topics": [
+      "automation",
+      "cli",
+      "file-management",
+      "rust",
+      "text-processing"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyadenetler",
+    "url": "https://github.com/efealtiparmakoglu/dosyadenetler",
+    "description": "Audit text/source trees against JSON rules and report violations with file, line, column and CI-friendly exits.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "code-quality",
+      "rust",
+      "source-code",
+      "validation"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyadogrular",
+    "url": "https://github.com/efealtiparmakoglu/dosyadogrular",
+    "description": "Validate CSV files against declared JSON schemas with row-level type, range, enum and uniqueness reports.",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "csv",
+      "data-quality",
+      "golang",
+      "validation"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyadonusturur",
+    "url": "https://github.com/efealtiparmakoglu/dosyadonusturur",
+    "description": "Batch CSV-to-JSONL migration with schema mappings, type coercion, checkpoints and an undo journal.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "csv",
+      "data-migration",
+      "jsonl",
+      "python"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyaduzenler",
+    "url": "https://github.com/efealtiparmakoglu/dosyaduzenler",
+    "description": "Batch file renaming and literal text editing with preview plans, backups and reversible journals.",
+    "language": "Go",
+    "topics": [
+      "batch-rename",
+      "cli",
+      "file-management",
+      "golang",
+      "text-processing"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyaesitler",
+    "url": "https://github.com/efealtiparmakoglu/dosyaesitler",
+    "description": "Plan-first directory synchronizer with one-way mirroring, two-way merging and deterministic change reports.",
+    "language": "Go",
+    "topics": [
+      "automation",
+      "cli",
+      "file-management",
+      "file-sync",
+      "golang"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyaesler",
+    "url": "https://github.com/efealtiparmakoglu/dosyaesler",
+    "description": "Reconcile two CSV key lists with matched pairs, unmatched records and duplicate/ambiguity reports.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "csv",
+      "data-processing",
+      "python",
+      "record-linkage"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyagezer",
+    "url": "https://github.com/efealtiparmakoglu/dosyagezer",
+    "description": "Deterministic directory-tree walker with glob, type, depth and date filters plus JSON output.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "directory-tree",
+      "file-management",
+      "file-search",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyagosterir",
+    "url": "https://github.com/efealtiparmakoglu/dosyagosterir",
+    "description": "Interactive curses directory browser with sorting, glob filters, Turkish-aware search and print mode.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "directory-tree",
+      "file-manager",
+      "python",
+      "tui"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyagozetir",
+    "url": "https://github.com/efealtiparmakoglu/dosyagozetir",
+    "description": "Disk-space watchdog with sampled metrics, rolling history, byte-threshold alarms and end-of-run reports.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "disk-usage",
+      "monitoring",
+      "rust",
+      "system-administration"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyaharmanlar",
+    "url": "https://github.com/efealtiparmakoglu/dosyaharmanlar",
+    "description": "Merge JSONL record files by key with explicit field-conflict handling and one output record per entity.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "data-integration",
+      "data-processing",
+      "jsonl",
+      "python"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyahizlar",
+    "url": "https://github.com/efealtiparmakoglu/dosyahizlar",
+    "description": "Token-bucket rate limiter for line streams with record/byte pacing and throughput telemetry.",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "golang",
+      "performance",
+      "rate-limiting",
+      "stream-processing"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyaihrac",
+    "url": "https://github.com/efealtiparmakoglu/dosyaihrac",
+    "description": "Export flat JSONL records to CSV, Markdown tables or canonical JSONL with invalid-record reporting.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "csv",
+      "data-export",
+      "jsonl",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyaindeksler",
+    "url": "https://github.com/efealtiparmakoglu/dosyaindeksler",
+    "description": "Incremental full-text file indexer with content hashes, AND queries, phrase search and a single JSON index.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "file-search",
+      "full-text-search",
+      "indexing",
+      "python"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyaindirger",
+    "url": "https://github.com/efealtiparmakoglu/dosyaindirger",
+    "description": "Reduce CSV or JSONL groups into deterministic sums, means, medians, minima, maxima and counts.",
+    "language": "Python",
+    "topics": [
+      "aggregation",
+      "cli",
+      "csv",
+      "jsonl",
+      "python"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyaisler",
+    "url": "https://github.com/efealtiparmakoglu/dosyaisler",
+    "description": "Persistent JSONL job queue worker in Rust with bounded parallel command execution and retry tracking.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "job-queue",
+      "jsonl",
+      "rust",
+      "task-runner"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyaithal",
+    "url": "https://github.com/efealtiparmakoglu/dosyaithal",
+    "description": "Import CSV into typed JSONL using declared field mappings, row-level error reports and atomic outputs.",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "csv",
+      "data-import",
+      "golang",
+      "jsonl"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyaizler",
+    "url": "https://github.com/efealtiparmakoglu/dosyaizler",
+    "description": "Polling directory watcher that emits created, modified, deleted and paired move events.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "file-management",
+      "file-watcher",
+      "monitoring",
+      "python"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyakarsilastirir",
+    "url": "https://github.com/efealtiparmakoglu/dosyakarsilastirir",
+    "description": "Compare files or directory trees with Myers unified diffs, word highlights and standalone HTML reports.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "developer-tools",
+      "diff",
+      "rust",
+      "text-processing"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyakestirir",
+    "url": "https://github.com/efealtiparmakoglu/dosyakestirir",
+    "description": "Estimate sizes or durations from timestamped histories with uncertainty bands and anomaly reports.",
+    "language": "Python",
+    "topics": [
+      "anomaly-detection",
+      "cli",
+      "python",
+      "statistics",
+      "time-series"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyakirpar",
+    "url": "https://github.com/efealtiparmakoglu/dosyakirpar",
+    "description": "Split text files by line count and rejoin them byte-for-byte using recorded offsets and JSON summaries.",
+    "language": "Go",
+    "topics": [
+      "checksums",
+      "cli",
+      "file-splitting",
+      "golang",
+      "text-processing"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyakopyalar",
+    "url": "https://github.com/efealtiparmakoglu/dosyakopyalar",
+    "description": "Incremental directory mirror copier with explicit change plans and dry-run previews before applying writes.",
+    "language": "Go",
+    "topics": [
+      "backup",
+      "cli",
+      "file-management",
+      "file-sync",
+      "golang"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyakovalar",
+    "url": "https://github.com/efealtiparmakoglu/dosyakovalar",
+    "description": "Aggregate timestamped JSONL records into fixed UTC buckets with counts, sums, means and explicit empty intervals.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "data-processing",
+      "jsonl",
+      "rust",
+      "time-series"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyakumeler",
+    "url": "https://github.com/efealtiparmakoglu/dosyakumeler",
+    "description": "Group JSONL records into nested clusters using declarative rules, with counts and missing-group warnings.",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "data-processing",
+      "golang",
+      "grouping",
+      "jsonl"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyakuyruklar",
+    "url": "https://github.com/efealtiparmakoglu/dosyakuyruklar",
+    "description": "Repository placeholder; no source files have been published.",
+    "language": null,
+    "topics": [
+      "placeholder"
+    ],
+    "empty": true
+  },
+  {
+    "name": "dosyaolcer",
+    "url": "https://github.com/efealtiparmakoglu/dosyaolcer",
+    "description": "Disk-usage reports with extension breakdowns, largest files and table, JSON or CSV output.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "data-analysis",
+      "disk-usage",
+      "file-management",
+      "python"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyaongorur",
+    "url": "https://github.com/efealtiparmakoglu/dosyaongorur",
+    "description": "Dependency-free Rust time-series forecasting with trend models, intervals, residual diagnostics and cross-validation.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "forecasting",
+      "rust",
+      "statistics",
+      "time-series"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyaornekle",
+    "url": "https://github.com/efealtiparmakoglu/dosyaornekle",
+    "description": "Reproducible streaming JSONL record sampling with a seeded PRNG and representativeness reports.",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "golang",
+      "jsonl",
+      "sampling",
+      "stream-processing"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyaplanlar",
+    "url": "https://github.com/efealtiparmakoglu/dosyaplanlar",
+    "description": "Deterministic single-machine job scheduler with priorities, recurrence constraints and pushed/dropped-run reports.",
+    "language": "Python",
+    "topics": [
+      "algorithms",
+      "cli",
+      "python",
+      "scheduling",
+      "task-runner"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyapuanlar",
+    "url": "https://github.com/efealtiparmakoglu/dosyapuanlar",
+    "description": "Score and rank JSONL items from weighted criteria with penalties and a per-item score breakdown.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "data-analysis",
+      "jsonl",
+      "python",
+      "ranking"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyasayar",
+    "url": "https://github.com/efealtiparmakoglu/dosyasayar",
+    "description": "Count or sum CSV/JSONL records by field with ordered summaries, percentage shares and inline bars.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "csv",
+      "data-analysis",
+      "jsonl",
+      "python"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyasemalar",
+    "url": "https://github.com/efealtiparmakoglu/dosyasemalar",
+    "description": "Map fields between declared schemas and report type compatibility, defaults and unmatched columns.",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "data-migration",
+      "golang",
+      "schema-mapping",
+      "validation"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyasiralamalar",
+    "url": "https://github.com/efealtiparmakoglu/dosyasiralamalar",
+    "description": "Compare scored JSONL rankings with top overlap, rank movement, score ties and gap reports.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "data-analysis",
+      "jsonl",
+      "ranking",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyasiralar",
+    "url": "https://github.com/efealtiparmakoglu/dosyasiralar",
+    "description": "Stable multi-key TSV sorting with typed columns, natural ordering and per-key directions.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "data-processing",
+      "rust",
+      "sorting",
+      "tsv"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyatara",
+    "url": "https://github.com/efealtiparmakoglu/dosyatara",
+    "description": "Search file contents with Python regex, file filters, merged context and deterministic output ordering.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "file-search",
+      "python",
+      "regex",
+      "text-search"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyatasir",
+    "url": "https://github.com/efealtiparmakoglu/dosyatasir",
+    "description": "Organize files into rule-based folders with dry-run plans, collision handling and reversible move journals.",
+    "language": "Rust",
+    "topics": [
+      "automation",
+      "cli",
+      "file-management",
+      "file-organizer",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyatekileder",
+    "url": "https://github.com/efealtiparmakoglu/dosyatekileder",
+    "description": "Deduplicate record streams by normalized SHA-256 identity while preserving the first original record byte-for-byte.",
+    "language": "Python",
+    "topics": [
+      "checksums",
+      "cli",
+      "deduplication",
+      "python",
+      "stream-processing"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyatekillestirir",
+    "url": "https://github.com/efealtiparmakoglu/dosyatekillestirir",
+    "description": "Find exact duplicate files, estimate reclaimable space and preview optional delete or move operations.",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "deduplication",
+      "disk-usage",
+      "file-management",
+      "golang"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyatemizler",
+    "url": "https://github.com/efealtiparmakoglu/dosyatemizler",
+    "description": "Normalize messy text files with consistent encodings, line endings, BOM handling and whitespace cleanup.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "file-management",
+      "normalization",
+      "python",
+      "text-processing"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyatoplar",
+    "url": "https://github.com/efealtiparmakoglu/dosyatoplar",
+    "description": "Concatenate files or merge sorted line streams with optional deduplication, atomic writes and read summaries.",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "file-management",
+      "golang",
+      "stream-processing",
+      "text-processing"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyauretir",
+    "url": "https://github.com/efealtiparmakoglu/dosyauretir",
+    "description": "Generate reproducible test fixtures and sample files from templates and seeded pseudo-random values.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "code-generation",
+      "rust",
+      "templates",
+      "test-fixtures"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dosyazamanlar",
+    "url": "https://github.com/efealtiparmakoglu/dosyazamanlar",
+    "description": "Analyze timestamped JSONL traces into call trees, total/self times, slow-frame flags and unbalanced-event reports.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "performance",
+      "profiling",
+      "python",
+      "tracing"
+    ],
+    "empty": false
+  },
+  {
+    "name": "dotenv-vault",
+    "url": "https://github.com/efealtiparmakoglu/dotenv-vault",
+    "description": "Local encrypted vault for .env files — AES-256-CTR + HMAC-SHA256,",
+    "language": "Rust",
+    "topics": [
+      "developer-tools",
+      "environment",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "ebookshelf",
+    "url": "https://github.com/efealtiparmakoglu/ebookshelf",
+    "description": "Local EPUB library organizer — read the metadata, find the covers, group by author or series, export",
+    "language": "Go",
+    "topics": [
+      "automation",
+      "ebook",
+      "go"
+    ],
+    "empty": false
+  },
+  {
+    "name": "efealtiparmakoglu",
+    "url": "https://github.com/efealtiparmakoglu/efealtiparmakoglu",
+    "description": "Software engineering, Linux infrastructure and creative computing — selected projects, live demos and a public repository catalog.",
+    "language": null,
+    "topics": [
+      "profile",
+      "portfolio",
+      "software-engineering",
+      "linux",
+      "devops",
+      "python",
+      "rust",
+      "golang",
+      "computer-graphics",
+      "procedural-generation"
+    ],
+    "empty": false
+  },
+  {
+    "name": "envsafe",
+    "url": "https://github.com/efealtiparmakoglu/envsafe",
+    "description": ".env linter and validator — syntax checks, type inference, example comparison. Values masked, secret",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "environment",
+      "rust",
+      "terminal"
+    ],
+    "empty": false
+  },
+  {
+    "name": "exif-clean",
+    "url": "https://github.com/efealtiparmakoglu/exif-clean",
+    "description": "Privacy-first metadata stripper for photos — pure Rust, zero dependencies, lossless.",
+    "language": "Rust",
+    "topics": [
+      "data",
+      "exif",
+      "metadata",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "expense-local",
+    "url": "https://github.com/efealtiparmakoglu/expense-local",
+    "description": "Local-first expense tracker — IndexedDB storage, six default",
+    "language": "TypeScript",
+    "topics": [
+      "typescript",
+      "web"
+    ],
+    "empty": false
+  },
+  {
+    "name": "f1-cinema",
+    "url": "https://github.com/efealtiparmakoglu/f1-cinema",
+    "description": "Parametric 2024-spec F1 car built in code — ~110 procedural Blender parts, FIA dimension gates verified automatically, Cycles studio renders + turntable.",
+    "language": "Python",
+    "topics": [
+      "3d",
+      "blender",
+      "procedural-generation",
+      "rendering",
+      "simulation"
+    ],
+    "empty": false
+  },
+  {
+    "name": "f16-cinema",
+    "url": "https://github.com/efealtiparmakoglu/f16-cinema",
+    "description": "F-16C Fighting Falcon built entirely in code — lofted fuselage, AIM-9s, flickering afterburner, flying through clouds. Spec-verified, Cycles render.",
+    "language": "Python",
+    "topics": [
+      "3d",
+      "blender",
+      "procedural-generation",
+      "rendering",
+      "simulation"
+    ],
+    "empty": false
+  },
+  {
+    "name": "filewatch",
+    "url": "https://github.com/efealtiparmakoglu/filewatch",
+    "description": "Watch a directory, run a command on changes — polling watcher with debounce, glob filters and placeh",
+    "language": "Go",
+    "topics": [
+      "go",
+      "systems"
+    ],
+    "empty": false
+  },
+  {
+    "name": "fluid-cinema",
+    "url": "https://github.com/efealtiparmakoglu/fluid-cinema",
+    "description": "JSON-driven 2D Navier-Stokes fluid studio — fire, vortex streets and nebulae from one JSON file. From-scratch Stable Fluids in NumPy, GIF out.",
+    "language": "Python",
+    "topics": [
+      "3d",
+      "blender",
+      "procedural-generation",
+      "rendering",
+      "simulation"
+    ],
+    "empty": false
+  },
+  {
+    "name": "font-preview",
+    "url": "https://github.com/efealtiparmakoglu/font-preview",
+    "description": "Local font file previewer — load TTF/OTF/WOFF, inspect the SFNT",
+    "language": "TypeScript",
+    "topics": [
+      "fonts",
+      "typescript",
+      "typography",
+      "web"
+    ],
+    "empty": false
+  },
+  {
+    "name": "fuzzyx",
+    "url": "https://github.com/efealtiparmakoglu/fuzzyx",
+    "description": "Fuzzy string matching in Rust: Levenshtein with an early-exit",
+    "language": "Rust",
+    "topics": [
+      "algorithms",
+      "education",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "game2048",
+    "url": "https://github.com/efealtiparmakoglu/game2048",
+    "description": "Terminal 2048 in C11 with animated tiles, a 16-state undo stack, persistent best scores and deterministic seeds.",
+    "language": "C",
+    "topics": [
+      "c",
+      "cli",
+      "game",
+      "terminal",
+      "2048"
+    ],
+    "empty": false
+  },
+  {
+    "name": "ganttgen",
+    "url": "https://github.com/efealtiparmakoglu/ganttgen",
+    "description": "Text to Gantt chart SVG — dependency arrows, milestones, three themes, and a validator that tells yo",
+    "language": "TypeScript",
+    "topics": [
+      "automation",
+      "project-management",
+      "svg",
+      "typescript"
+    ],
+    "empty": false
+  },
+  {
+    "name": "gargantua-cinema",
+    "url": "https://github.com/efealtiparmakoglu/gargantua-cinema",
+    "description": "Black hole rendered from real Schwarzschild geodesics — doppler-beamed accretion disk / Gerçek geodeziklerle kara delik",
+    "language": "Python",
+    "topics": [
+      "accretion-disk",
+      "black-hole",
+      "blender",
+      "general-relativity",
+      "procedural",
+      "ray-tracing"
+    ],
+    "empty": false
+  },
+  {
+    "name": "geoindex",
+    "url": "https://github.com/efealtiparmakoglu/geoindex",
+    "description": "Quadtree spatial index in pure Go — bounding-box and k-nearest-neighbor",
+    "language": "Go",
+    "topics": [
+      "algorithms",
+      "education",
+      "go"
+    ],
+    "empty": false
+  },
+  {
+    "name": "gitstat",
+    "url": "https://github.com/efealtiparmakoglu/gitstat",
+    "description": "Offline contribution analytics from a local git history — author",
+    "language": "Python",
+    "topics": [
+      "developer-tools",
+      "filesystem",
+      "git",
+      "python"
+    ],
+    "empty": false
+  },
+  {
+    "name": "habit-grid",
+    "url": "https://github.com/efealtiparmakoglu/habit-grid",
+    "description": "Printable monthly habit-grid generator — pick a month, pick habits,",
+    "language": "TypeScript",
+    "topics": [
+      "education",
+      "typescript",
+      "web"
+    ],
+    "empty": false
+  },
+  {
+    "name": "hashlab",
+    "url": "https://github.com/efealtiparmakoglu/hashlab",
+    "description": "MD5, SHA-1 and SHA-256 implemented from scratch in C — RFC/FIPS known-answer vectors, per-round step",
+    "language": "C",
+    "topics": [
+      "c",
+      "cryptography",
+      "education",
+      "security"
+    ],
+    "empty": false
+  },
+  {
+    "name": "hashset",
+    "url": "https://github.com/efealtiparmakoglu/hashset",
+    "description": "File hashing, checksum manifests and change reports in Go — parallel, standard library only.",
+    "language": "Go",
+    "topics": [
+      "data",
+      "go"
+    ],
+    "empty": false
+  },
+  {
+    "name": "hexview",
+    "url": "https://github.com/efealtiparmakoglu/hexview",
+    "description": "A fast, colorful, less-style hex viewer in pure C — zero dependencies beyond libc.",
+    "language": "C",
+    "topics": [
+      "c",
+      "cli",
+      "hexdump",
+      "terminal"
+    ],
+    "empty": false
+  },
+  {
+    "name": "histfz",
+    "url": "https://github.com/efealtiparmakoglu/histfz",
+    "description": "Fuzzy search over your shell history — Smith-Waterman local alignment, so `gmtr` finds `git merge --",
+    "language": "Rust",
+    "topics": [
+      "automation",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "httpserver",
+    "url": "https://github.com/efealtiparmakoglu/httpserver",
+    "description": "HTTP/1.1 server on raw TCP sockets — no net/http, zero dependencies beyond Go stdlib.",
+    "language": "Go",
+    "topics": [
+      "developer-tools",
+      "go"
+    ],
+    "empty": false
+  },
+  {
+    "name": "image-optimizer",
+    "url": "https://github.com/efealtiparmakoglu/image-optimizer",
+    "description": "In-browser batch image optimizer — files never leave your machine.",
+    "language": "TypeScript",
+    "topics": [
+      "typescript",
+      "web"
+    ],
+    "empty": false
+  },
+  {
+    "name": "imgconv",
+    "url": "https://github.com/efealtiparmakoglu/imgconv",
+    "description": "Batch image converter in pure Rust — hand-rolled PNG, JPEG and WebP-lossless codecs. Zero dependenci",
+    "language": "Rust",
+    "topics": [
+      "data",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "imgsort",
+    "url": "https://github.com/efealtiparmakoglu/imgsort",
+    "description": "Organize photos into folders by capture date — dry-run, conflict policies, per-year summary. The EXI",
+    "language": "Rust",
+    "topics": [
+      "automation",
+      "exif",
+      "metadata",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "jsonlq",
+    "url": "https://github.com/efealtiparmakoglu/jsonlq",
+    "description": "Filter, transform and project JSON Lines with path expressions — a hand-written expression engine in",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "go",
+      "terminal"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaos-atolyesi",
+    "url": "https://github.com/efealtiparmakoglu/kaos-atolyesi",
+    "description": "Double-pendulum neon signatures — real RK4 chaos, 1e-9 twin story / Gerçek kaos: çift sarkaç neon imzaları",
+    "language": "Python",
+    "topics": [
+      "blender",
+      "chaos",
+      "double-pendulum",
+      "lyapunov",
+      "procedural-animation",
+      "rk4"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynakacar",
+    "url": "https://github.com/efealtiparmakoglu/kaynakacar",
+    "description": "Unpack kaynaktoplar review bundles into validated source paths with a dry-run plan before extraction.",
+    "language": "Rust",
+    "topics": [
+      "archiving",
+      "cli",
+      "developer-tools",
+      "rust",
+      "source-code"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynakadimlar",
+    "url": "https://github.com/efealtiparmakoglu/kaynakadimlar",
+    "description": "Execute declared build steps, record a file-level JSONL trace and audit inputs and outputs by replay.",
+    "language": "Python",
+    "topics": [
+      "build-tools",
+      "cli",
+      "python",
+      "source-code",
+      "tracing"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynakadlandirir",
+    "url": "https://github.com/efealtiparmakoglu/kaynakadlandirir",
+    "description": "Batch rename source files and directories, rewrite their imports and undo changes from a journal.",
+    "language": "Go",
+    "topics": [
+      "batch-rename",
+      "cli",
+      "golang",
+      "refactoring",
+      "source-code"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynakbicimler",
+    "url": "https://github.com/efealtiparmakoglu/kaynakbicimler",
+    "description": "Rule-driven whitespace formatter for source trees with per-extension settings and focused text cleanup.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "formatter",
+      "rust",
+      "source-code",
+      "text-processing"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynakbirlestirir",
+    "url": "https://github.com/efealtiparmakoglu/kaynakbirlestirir",
+    "description": "Reassemble source chunks in manifest order with size and SHA-256 verification; no external crates.",
+    "language": "Rust",
+    "topics": [
+      "checksums",
+      "cli",
+      "file-splitting",
+      "rust",
+      "source-code"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynakboler",
+    "url": "https://github.com/efealtiparmakoglu/kaynakboler",
+    "description": "Split source files into line chunks with symbol outlines and a verified, reversible JSON manifest.",
+    "language": "Go",
+    "topics": [
+      "checksums",
+      "cli",
+      "file-splitting",
+      "golang",
+      "source-code"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynakbul",
+    "url": "https://github.com/efealtiparmakoglu/kaynakbul",
+    "description": "Find source files by name, content, size, date and symbol definitions using Python's standard library.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "code-search",
+      "file-search",
+      "python",
+      "source-code"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynakdegistirir",
+    "url": "https://github.com/efealtiparmakoglu/kaynakdegistirir",
+    "description": "Rule-based source cleanup in Rust with preview diffs, comment-aware edits and byte-for-byte undo.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "code-quality",
+      "refactoring",
+      "rust",
+      "source-code"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynakdogrular",
+    "url": "https://github.com/efealtiparmakoglu/kaynakdogrular",
+    "description": "Validate source-tree layouts against JSON schemas and report missing files, forbidden paths and content violations.",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "code-quality",
+      "golang",
+      "source-code",
+      "validation"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynakduzenler",
+    "url": "https://github.com/efealtiparmakoglu/kaynakduzenler",
+    "description": "Apply ordered source cleanup rules across a tree with preview diffs, retained backups and journal-based undo.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "python",
+      "refactoring",
+      "source-code",
+      "text-processing"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynakesitler",
+    "url": "https://github.com/efealtiparmakoglu/kaynakesitler",
+    "description": "Plan and synchronize source trees with whitespace-normalized content comparison and bidirectional merge mode.",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "file-sync",
+      "golang",
+      "source-code",
+      "text-processing"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynakgezer",
+    "url": "https://github.com/efealtiparmakoglu/kaynakgezer",
+    "description": "Source-aware directory walker with language filters, sorted paths and automatic build/dependency exclusion.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "directory-tree",
+      "file-search",
+      "rust",
+      "source-code"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynakgosterir",
+    "url": "https://github.com/efealtiparmakoglu/kaynakgosterir",
+    "description": "Terminal source viewer with line numbers, symbol outlines and Turkish-aware live search.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "code-search",
+      "python",
+      "source-code",
+      "tui"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynakgozetir",
+    "url": "https://github.com/efealtiparmakoglu/kaynakgozetir",
+    "description": "Monitor source-tree lines, file counts and bytes with rolling history and threshold alerts.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "code-metrics",
+      "monitoring",
+      "rust",
+      "source-code"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynakindeksler",
+    "url": "https://github.com/efealtiparmakoglu/kaynakindeksler",
+    "description": "Incremental source indexer with identifier-aware search, symbol extraction and a reproducible JSON index.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "code-search",
+      "indexing",
+      "python",
+      "source-code"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynakizler",
+    "url": "https://github.com/efealtiparmakoglu/kaynakizler",
+    "description": "Polling source-tree watcher with language-tagged change events and build/dependency noise filtering.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "file-watcher",
+      "monitoring",
+      "python",
+      "source-code"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynakkopyalar",
+    "url": "https://github.com/efealtiparmakoglu/kaynakkopyalar",
+    "description": "Incrementally mirror source trees using SHA-256 change detection and gitignore-aware filtering.",
+    "language": "Python",
+    "topics": [
+      "backup",
+      "cli",
+      "file-sync",
+      "python",
+      "source-code"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynaktara",
+    "url": "https://github.com/efealtiparmakoglu/kaynaktara",
+    "description": "Search source trees with regular expressions, merged context windows, language filters and ranked file hits.",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "code-search",
+      "golang",
+      "regex",
+      "source-code"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynaktemizler",
+    "url": "https://github.com/efealtiparmakoglu/kaynaktemizler",
+    "description": "Normalize source trees to UTF-8 and LF with preview diffs, mandatory backups and byte-for-byte undo.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "code-quality",
+      "python",
+      "source-code",
+      "text-processing"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynaktoplar",
+    "url": "https://github.com/efealtiparmakoglu/kaynaktoplar",
+    "description": "Bundle source files for review with per-file markers, statistics and an optional JSON manifest.",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "code-review",
+      "developer-tools",
+      "golang",
+      "source-code"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynakuretir",
+    "url": "https://github.com/efealtiparmakoglu/kaynakuretir",
+    "description": "Generate reproducible project scaffolds from template directories and seeded pseudo-random values.",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "code-generation",
+      "golang",
+      "templates",
+      "test-fixtures"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kaynakzamanlar",
+    "url": "https://github.com/efealtiparmakoglu/kaynakzamanlar",
+    "description": "Analyze JSONL call traces into ordered call trees, total/self timings and per-source-file attribution.",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "golang",
+      "performance",
+      "profiling",
+      "tracing"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kelimeavi",
+    "url": "https://github.com/efealtiparmakoglu/kelimeavi",
+    "description": "Türkçe kelime oyunu — karışık harflerden gizli kelimeyi bul, Wordle tarzı puanlama. Sıfır bağımlılık",
+    "language": "TypeScript",
+    "topics": [
+      "game",
+      "python",
+      "word-game"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kelimeavi-py",
+    "url": "https://github.com/efealtiparmakoglu/kelimeavi-py",
+    "description": "Turkish word game (Python) - scrambled letters, Wordle-style grading, offline",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "education",
+      "game",
+      "python",
+      "word-game"
+    ],
+    "empty": false
+  },
+  {
+    "name": "kepler-orrery",
+    "url": "https://github.com/efealtiparmakoglu/kepler-orrery",
+    "description": "Blender add-on: brass orrery driven by the real Kepler equation / Kepler denkleminin gerçek çözümüyle pirinç orrery",
+    "language": "Python",
+    "topics": [
+      "addon",
+      "astronomy",
+      "blender",
+      "kepler",
+      "orrery",
+      "procedural-animation",
+      "solar-system"
+    ],
+    "empty": false
+  },
+  {
+    "name": "lander-cinema",
+    "url": "https://github.com/efealtiparmakoglu/lander-cinema",
+    "description": "🛬 Lunar module that lands — bang-bang suicide-burn controller, touchdown at 1.00 m/s with 96% propellant left, retrograde tilt, throttlable gimbal engine. Gate-verified. Blender Cycles.",
+    "language": "Python",
+    "topics": [
+      "3d",
+      "blender",
+      "cycles",
+      "lunar-lander",
+      "physics",
+      "procedural-generation",
+      "python",
+      "rendering",
+      "simulation",
+      "suicide-burn"
+    ],
+    "empty": false
+  },
+  {
+    "name": "licdetect",
+    "url": "https://github.com/efealtiparmakoglu/licdetect",
+    "description": "Open-source license detector — reads a LICENSE file (or a source file",
+    "language": "Go",
+    "topics": [
+      "developer-tools",
+      "go"
+    ],
+    "empty": false
+  },
+  {
+    "name": "linkage-studio",
+    "url": "https://github.com/efealtiparmakoglu/linkage-studio",
+    "description": "Blender add-on: Jansen-linkage walking machines from closed-form kinematics / Kapalı-form kinematikle yürüyen Strandbeest makineleri",
+    "language": "Python",
+    "topics": [
+      "addon",
+      "blender",
+      "jansen-linkage",
+      "kinematics",
+      "procedural-animation",
+      "strandbeest",
+      "walking-robot"
+    ],
+    "empty": false
+  },
+  {
+    "name": "loc-counter",
+    "url": "https://github.com/efealtiparmakoglu/loc-counter",
+    "description": "Lines-of-code counter in pure Rust — 33 languages, comment/string aware, zero dependencies.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "rust",
+      "terminal"
+    ],
+    "empty": false
+  },
+  {
+    "name": "logparse",
+    "url": "https://github.com/efealtiparmakoglu/logparse",
+    "description": "Web server access log analyzer in pure Rust — Common/Combined format, status distribution, top paths",
+    "language": "Rust",
+    "topics": [
+      "data",
+      "logs",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "lzf",
+    "url": "https://github.com/efealtiparmakoglu/lzf",
+    "description": "Dependency-free Rust file compressor using LZ77 and canonical Huffman coding in a checksummed LZF1 container.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "compression",
+      "lz77",
+      "rust",
+      "terminal",
+      "zero-dependency"
+    ],
+    "empty": false
+  },
+  {
+    "name": "markdown-cv",
+    "url": "https://github.com/efealtiparmakoglu/markdown-cv",
+    "description": "Markdown CV → themed single-file HTML → PDF via the browser's print",
+    "language": "TypeScript",
+    "topics": [
+      "typescript",
+      "web"
+    ],
+    "empty": false
+  },
+  {
+    "name": "markov-text",
+    "url": "https://github.com/efealtiparmakoglu/markov-text",
+    "description": "Order-N Markov chain text generator — feed it a local corpus, tune the",
+    "language": "Python",
+    "topics": [
+      "algorithms",
+      "education",
+      "nlp",
+      "python"
+    ],
+    "empty": false
+  },
+  {
+    "name": "matops",
+    "url": "https://github.com/efealtiparmakoglu/matops",
+    "description": "A dense matrix library written from scratch — no BLAS, no LAPACK,",
+    "language": "C",
+    "topics": [
+      "algorithms",
+      "c",
+      "education"
+    ],
+    "empty": false
+  },
+  {
+    "name": "maze-cinema",
+    "url": "https://github.com/efealtiparmakoglu/maze-cinema",
+    "description": "JSON-driven maze races: A* vs Dijkstra vs BFS animated side-by-side. Pure Python stdlib — zero pip dependencies, every pixel hand-rolled.",
+    "language": "Python",
+    "topics": [
+      "3d",
+      "blender",
+      "procedural-generation",
+      "rendering",
+      "simulation"
+    ],
+    "empty": false
+  },
+  {
+    "name": "mdindex",
+    "url": "https://github.com/efealtiparmakoglu/mdindex",
+    "description": "Markdown table-of-contents generator with GitHub-compatible anchors. Zero dependencies.",
+    "language": "JavaScript",
+    "topics": [
+      "cli",
+      "terminal",
+      "typescript"
+    ],
+    "empty": false
+  },
+  {
+    "name": "memory-match",
+    "url": "https://github.com/efealtiparmakoglu/memory-match",
+    "description": "Unicode memory-match game — emoji themes, difficulty levels, hot-seat",
+    "language": "TypeScript",
+    "topics": [
+      "game",
+      "typescript"
+    ],
+    "empty": false
+  },
+  {
+    "name": "mempress",
+    "url": "https://github.com/efealtiparmakoglu/mempress",
+    "description": "Controlled memory-pressure generator for OOM and reclaim testing — grow to a target size at a contro",
+    "language": "C",
+    "topics": [
+      "c",
+      "systems"
+    ],
+    "empty": false
+  },
+  {
+    "name": "minesweeper",
+    "url": "https://github.com/efealtiparmakoglu/minesweeper",
+    "description": "Single-file offline Minesweeper — first-click-safe boards, flag",
+    "language": "TypeScript",
+    "topics": [
+      "game",
+      "typescript"
+    ],
+    "empty": false
+  },
+  {
+    "name": "minigit",
+    "url": "https://github.com/efealtiparmakoglu/minigit",
+    "description": "A from-scratch content-addressed version control system in pure Python — blob/tree/commit objects, b",
+    "language": "Python",
+    "topics": [
+      "developer-tools",
+      "git",
+      "python"
+    ],
+    "empty": false
+  },
+  {
+    "name": "netstat-lite",
+    "url": "https://github.com/efealtiparmakoglu/netstat-lite",
+    "description": "Socket table viewer in pure Rust — /proc parser (Linux) + netstat backend (macOS/BSD), process mappi",
+    "language": "Rust",
+    "topics": [
+      "rust",
+      "systems"
+    ],
+    "empty": false
+  },
+  {
+    "name": "nqueens-lab",
+    "url": "https://github.com/efealtiparmakoglu/nqueens-lab",
+    "description": "Compare heuristic solvers on the N-Queens problem — pure Go stdlib,",
+    "language": "Go",
+    "topics": [
+      "algorithms",
+      "education",
+      "go"
+    ],
+    "empty": false
+  },
+  {
+    "name": "ocean-cinema",
+    "url": "https://github.com/efealtiparmakoglu/ocean-cinema",
+    "description": "Gerstner-wave ocean simulator from scratch in NumPy — dispersion, foam, glitter paths. Four moods of the sea as GIFs. Feeds ship-cinema.",
+    "language": "Python",
+    "topics": [
+      "3d",
+      "blender",
+      "procedural-generation",
+      "rendering",
+      "simulation"
+    ],
+    "empty": false
+  },
+  {
+    "name": "offline-notes",
+    "url": "https://github.com/efealtiparmakoglu/offline-notes",
+    "description": "Local-first notes app — IndexedDB storage, markdown preview, JSON",
+    "language": "TypeScript",
+    "topics": [
+      "typescript",
+      "web"
+    ],
+    "empty": false
+  },
+  {
+    "name": "orbit-cinema",
+    "url": "https://github.com/efealtiparmakoglu/orbit-cinema",
+    "description": "🌌 The launch: functional rocket lifting off the engineered pad at night — altitude from the flight ODE, volumetric ground steam, plume glow. Blender Cycles.",
+    "language": "Python",
+    "topics": [
+      "3d",
+      "blender",
+      "cycles",
+      "launch",
+      "night",
+      "procedural-generation",
+      "python",
+      "rendering",
+      "simulation",
+      "volumetric"
+    ],
+    "empty": false
+  },
+  {
+    "name": "otp-tool",
+    "url": "https://github.com/efealtiparmakoglu/otp-tool",
+    "description": "TOTP/HOTP generator with the HMAC-SHA-1 written from scratch — RFC 4226 and RFC 6238 vectors, `otpau",
+    "language": "Rust",
+    "topics": [
+      "2fa",
+      "auth",
+      "cryptography",
+      "education",
+      "rust",
+      "security"
+    ],
+    "empty": false
+  },
+  {
+    "name": "pad-cinema",
+    "url": "https://github.com/efealtiparmakoglu/pad-cinema",
+    "description": "🗼 Launch complex from code — tapered lattice tower, service arms, lightning masts, flame trench with 32° deflector, water deluge. 8 geometry gates. Blender Cycles.",
+    "language": "Python",
+    "topics": [
+      "3d",
+      "blender",
+      "cycles",
+      "launch-pad",
+      "procedural",
+      "procedural-generation",
+      "python",
+      "rendering",
+      "simulation"
+    ],
+    "empty": false
+  },
+  {
+    "name": "palette-extractor",
+    "url": "https://github.com/efealtiparmakoglu/palette-extractor",
+    "description": "Image palette tooling: RGB→HEX/HSL, WCAG contrast ratios, k-means colour",
+    "language": "TypeScript",
+    "topics": [
+      "typescript",
+      "web"
+    ],
+    "empty": false
+  },
+  {
+    "name": "passman",
+    "url": "https://github.com/efealtiparmakoglu/passman",
+    "description": "An offline password vault in Rust — Argon2id key derivation, ChaCha20-Poly1305 encryption, single-fi",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "rust",
+      "terminal"
+    ],
+    "empty": false
+  },
+  {
+    "name": "passstrength",
+    "url": "https://github.com/efealtiparmakoglu/passstrength",
+    "description": "Offline password strength checker — coverage-based pattern detection, honest crack-time estimates, a",
+    "language": "TypeScript",
+    "topics": [
+      "cryptography",
+      "education",
+      "security",
+      "typescript"
+    ],
+    "empty": false
+  },
+  {
+    "name": "patchwork",
+    "url": "https://github.com/efealtiparmakoglu/patchwork",
+    "description": "A unified-diff reader/applier written from scratch — with an offset",
+    "language": "Rust",
+    "topics": [
+      "developer-tools",
+      "diff",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "pathfinder",
+    "url": "https://github.com/efealtiparmakoglu/pathfinder",
+    "description": "Watch A\\, Dijkstra and BFS race through the same maze in your",
+    "language": "TypeScript",
+    "topics": [
+      "algorithms",
+      "education",
+      "typescript"
+    ],
+    "empty": false
+  },
+  {
+    "name": "pdftext",
+    "url": "https://github.com/efealtiparmakoglu/pdftext",
+    "description": "Educational PDF text extractor in pure Rust — object scanner, FlateDecode, content-stream text opera",
+    "language": "Rust",
+    "topics": [
+      "data",
+      "pdf",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "playlist-m3u",
+    "url": "https://github.com/efealtiparmakoglu/playlist-m3u",
+    "description": "Fix, sort and group local M3U playlists in Python — dead-path cleanup, ID3-aware titles, zero depend",
+    "language": "Python",
+    "topics": [
+      "audio",
+      "data",
+      "python"
+    ],
+    "empty": false
+  },
+  {
+    "name": "portscan-edu",
+    "url": "https://github.com/efealtiparmakoglu/portscan-edu",
+    "description": "Educational TCP connect scanner in Go — authorized lab use, consent-gated, bounded concurrency. Stan",
+    "language": "Go",
+    "topics": [
+      "git",
+      "go",
+      "systems"
+    ],
+    "empty": false
+  },
+  {
+    "name": "procmeter",
+    "url": "https://github.com/efealtiparmakoglu/procmeter",
+    "description": "Reads /proc and turns process and CPU data into readable lines — the",
+    "language": "Rust",
+    "topics": [
+      "rust",
+      "systems"
+    ],
+    "empty": false
+  },
+  {
+    "name": "qrgen",
+    "url": "https://github.com/efealtiparmakoglu/qrgen",
+    "description": "A from-scratch QR Code generator in pure Python — Reed-Solomon, BCH codes, mask scoring, zero depend",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "python",
+      "qrcode",
+      "terminal"
+    ],
+    "empty": false
+  },
+  {
+    "name": "quantum-cinema",
+    "url": "https://github.com/efealtiparmakoglu/quantum-cinema",
+    "description": "From-scratch quantum computer simulator: 26-qubit statevector engine (1 GB RAM), Grover/QFT/Shor demos, verified by dense-matrix differential testing.",
+    "language": "Python",
+    "topics": [
+      "3d",
+      "blender",
+      "procedural-generation",
+      "rendering",
+      "simulation"
+    ],
+    "empty": false
+  },
+  {
+    "name": "rail-cinema",
+    "url": "https://github.com/efealtiparmakoglu/rail-cinema",
+    "description": "🛤️ Infinite railway generator — piecewise path math, UIC-60 rails, sleepers, ballast, catenary, speed-based superelevation. Blender Cycles.",
+    "language": "Python",
+    "topics": [
+      "3d",
+      "blender",
+      "cycles",
+      "physics",
+      "procedural",
+      "procedural-generation",
+      "python",
+      "railway",
+      "rendering",
+      "simulation"
+    ],
+    "empty": false
+  },
+  {
+    "name": "railway-cinema",
+    "url": "https://github.com/efealtiparmakoglu/railway-cinema",
+    "description": "🚂🛤️ The crossover: the functional locomotive rides the infinite engineered railway — no-slip rolling (θ = s/r), cant lean, world-space smoke. Day, sunset, night.",
+    "language": "Python",
+    "topics": [
+      "3d",
+      "animation",
+      "blender",
+      "cycles",
+      "procedural",
+      "procedural-generation",
+      "python",
+      "rendering",
+      "simulation",
+      "train"
+    ],
+    "empty": false
+  },
+  {
+    "name": "ray-cinema",
+    "url": "https://github.com/efealtiparmakoglu/ray-cinema",
+    "description": "JSON-driven Monte Carlo path tracer from scratch in NumPy — glass, metals, DOF, ACES; verified by 9 analytic physics gates. No rendering libraries.",
+    "language": "Python",
+    "topics": [
+      "3d",
+      "blender",
+      "procedural-generation",
+      "rendering",
+      "simulation"
+    ],
+    "empty": false
+  },
+  {
+    "name": "readinglist",
+    "url": "https://github.com/efealtiparmakoglu/readinglist",
+    "description": "A local reading list scheduled with SM-2 spaced repetition — add books, tag them, review with a 0–5 ",
+    "language": "Go",
+    "topics": [
+      "automation",
+      "go"
+    ],
+    "empty": false
+  },
+  {
+    "name": "recipe-scaler",
+    "url": "https://github.com/efealtiparmakoglu/recipe-scaler",
+    "description": "Scale recipe quantities with exact fraction arithmetic — unit conversion,",
+    "language": "Python",
+    "topics": [
+      "automation",
+      "python"
+    ],
+    "empty": false
+  },
+  {
+    "name": "regextoy",
+    "url": "https://github.com/efealtiparmakoglu/regextoy",
+    "description": "A from-scratch regex engine in plain Node.js — backtracking matcher, capture groups, zero dependenci",
+    "language": "JavaScript",
+    "topics": [
+      "developer-tools",
+      "regex",
+      "typescript"
+    ],
+    "empty": false
+  },
+  {
+    "name": "renamer",
+    "url": "https://github.com/efealtiparmakoglu/renamer",
+    "description": "Batch file renamer with regex capture groups, collision detection and an undo script — dry-run by de",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "regex",
+      "rust",
+      "terminal"
+    ],
+    "empty": false
+  },
+  {
+    "name": "rocket-cinema",
+    "url": "https://github.com/efealtiparmakoglu/rocket-cinema",
+    "description": "🚀 Two-stage rocket that actually flies — ascent ODE + Tsiolkovsky gate to 0.003%, gimbaled engine, real stage separation. No keyframes. Blender Cycles.",
+    "language": "Python",
+    "topics": [
+      "3d",
+      "blender",
+      "cycles",
+      "kinematics",
+      "procedural-generation",
+      "python",
+      "rendering",
+      "rocket",
+      "simulation",
+      "tsiolkovsky"
+    ],
+    "empty": false
+  },
+  {
+    "name": "rsa-lab",
+    "url": "https://github.com/efealtiparmakoglu/rsa-lab",
+    "description": "RSA laboratory in pure Python — Miller-Rabin primality, key generation, CRT decryption, a live malle",
+    "language": "Python",
+    "topics": [
+      "asymmetric",
+      "cryptography",
+      "education",
+      "python",
+      "rsa",
+      "security"
+    ],
+    "empty": false
+  },
+  {
+    "name": "secretsplit",
+    "url": "https://github.com/efealtiparmakoglu/secretsplit",
+    "description": "Shamir's Secret Sharing over GF(2⁸) — split a secret into shares that need a threshold to meet again",
+    "language": "Go",
+    "topics": [
+      "cryptography",
+      "education",
+      "go",
+      "security"
+    ],
+    "empty": false
+  },
+  {
+    "name": "semver-check",
+    "url": "https://github.com/efealtiparmakoglu/semver-check",
+    "description": "Semantic version parser, validator, comparator and bumper. Rust, zero dependencies.",
+    "language": "Rust",
+    "topics": [
+      "developer-tools",
+      "logs",
+      "rust",
+      "semver",
+      "versioning"
+    ],
+    "empty": false
+  },
+  {
+    "name": "ship-cinema",
+    "url": "https://github.com/efealtiparmakoglu/ship-cinema",
+    "description": "Ships sailing on real ocean physics — imports the ocean-cinema Gerstner engine, samples the wave field at bow/mid/stern, renders sailing GIFs.",
+    "language": "Python",
+    "topics": [
+      "3d",
+      "blender",
+      "procedural-generation",
+      "rendering",
+      "simulation"
+    ],
+    "empty": false
+  },
+  {
+    "name": "shotname",
+    "url": "https://github.com/efealtiparmakoglu/shotname",
+    "description": "Rule-based screenshot renamer for macOS — templates, ordered rewrite rules, an undo log you can read",
+    "language": "Swift",
+    "topics": [
+      "automation",
+      "swift"
+    ],
+    "empty": false
+  },
+  {
+    "name": "silicon-cinema",
+    "url": "https://github.com/efealtiparmakoglu/silicon-cinema",
+    "description": "From-scratch 32-bit CPU emulator, assembler and CIN compiler, running framebuffer programs rendered as GIFs.",
+    "language": "Python",
+    "topics": [
+      "python",
+      "cpu-emulator",
+      "assembler",
+      "compiler",
+      "computer-architecture",
+      "simulation"
+    ],
+    "empty": false
+  },
+  {
+    "name": "snake-tui",
+    "url": "https://github.com/efealtiparmakoglu/snake-tui",
+    "description": "Classic snake in your terminal — unicode block rendering, two wall",
+    "language": "Go",
+    "topics": [
+      "game",
+      "go"
+    ],
+    "empty": false
+  },
+  {
+    "name": "sortlab",
+    "url": "https://github.com/efealtiparmakoglu/sortlab",
+    "description": "Benchmark pack for 12 sorting algorithms over 6 data patterns —",
+    "language": "Rust",
+    "topics": [
+      "algorithms",
+      "education",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "srec-tui",
+    "url": "https://github.com/efealtiparmakoglu/srec-tui",
+    "description": "Screen capture to animated PNG — a from-scratch APNG encoder in Swift. Capture glue is macOS; the en",
+    "language": "Swift",
+    "topics": [
+      "cli",
+      "images",
+      "png",
+      "swift",
+      "terminal"
+    ],
+    "empty": false
+  },
+  {
+    "name": "stego-studio",
+    "url": "https://github.com/efealtiparmakoglu/stego-studio",
+    "description": "Educational LSB steganography: hide text messages inside the least",
+    "language": "TypeScript",
+    "topics": [
+      "typescript",
+      "web"
+    ],
+    "empty": false
+  },
+  {
+    "name": "stopwatchd",
+    "url": "https://github.com/efealtiparmakoglu/stopwatchd",
+    "description": "Per-project time tracking from the terminal — one JSON file, offline, zero dependencies.",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "go",
+      "terminal"
+    ],
+    "empty": false
+  },
+  {
+    "name": "subtitle-tools",
+    "url": "https://github.com/efealtiparmakoglu/subtitle-tools",
+    "description": "SRT/VTT toolkit in pure Python — shift, fps conversion, dual-language merge, overlap detection. Zero",
+    "language": "Python",
+    "topics": [
+      "data",
+      "python"
+    ],
+    "empty": false
+  },
+  {
+    "name": "sudoku-solver",
+    "url": "https://github.com/efealtiparmakoglu/sudoku-solver",
+    "description": "Sudoku solver with constraint propagation + MRV backtracking,",
+    "language": "Python",
+    "topics": [
+      "algorithms",
+      "education",
+      "puzzle",
+      "python",
+      "solver"
+    ],
+    "empty": false
+  },
+  {
+    "name": "sudoku-web",
+    "url": "https://github.com/efealtiparmakoglu/sudoku-web",
+    "description": "Offline client-side sudoku: generator, solver, hints, pencil notes",
+    "language": "TypeScript",
+    "topics": [
+      "game",
+      "puzzle",
+      "solver",
+      "typescript"
+    ],
+    "empty": false
+  },
+  {
+    "name": "syslog-lite",
+    "url": "https://github.com/efealtiparmakoglu/syslog-lite",
+    "description": "UDP syslog collector in Go — RFC 5424 parsing, size-rotated files, severity filtering. Zero dependen",
+    "language": "Go",
+    "topics": [
+      "go",
+      "logging",
+      "logs",
+      "systems"
+    ],
+    "empty": false
+  },
+  {
+    "name": "tabular",
+    "url": "https://github.com/efealtiparmakoglu/tabular",
+    "description": "CSV/TSV → SQLite importer in pure Python — conservative type inference, empty-value policies, schema",
+    "language": "Python",
+    "topics": [
+      "csv",
+      "data",
+      "python",
+      "sql",
+      "sqlite"
+    ],
+    "empty": false
+  },
+  {
+    "name": "terrain-cinema",
+    "url": "https://github.com/efealtiparmakoglu/terrain-cinema",
+    "description": "🌑 The Moon from math — crater height functions (bowl/rim/ejecta), hard 0.5° sun with zero atmosphere, crater-free landing zone, blue Earth 2° wide. Blender Cycles.",
+    "language": "Python",
+    "topics": [
+      "3d",
+      "blender",
+      "cycles",
+      "moon",
+      "procedural",
+      "procedural-generation",
+      "python",
+      "rendering",
+      "simulation",
+      "terrain"
+    ],
+    "empty": false
+  },
+  {
+    "name": "tetris-cli",
+    "url": "https://github.com/efealtiparmakoglu/tetris-cli",
+    "description": "Terminal Tetris in C11 — real SRS rotation with wall kicks, 7-bag",
+    "language": "C",
+    "topics": [
+      "c",
+      "game",
+      "puzzle"
+    ],
+    "empty": false
+  },
+  {
+    "name": "tftp-lite",
+    "url": "https://github.com/efealtiparmakoglu/tftp-lite",
+    "description": "Minimal RFC 1350 TFTP client and server in C — hand-packed packets, lockstep block verification, ret",
+    "language": "C",
+    "topics": [
+      "c",
+      "networking",
+      "systems"
+    ],
+    "empty": false
+  },
+  {
+    "name": "tinylang",
+    "url": "https://github.com/efealtiparmakoglu/tinylang",
+    "description": "A small tree-walking interpreter in pure Rust — lexer, Pratt parser, closures, REPL. Zero dependenci",
+    "language": "Rust",
+    "topics": [
+      "developer-tools",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "todo-scanner",
+    "url": "https://github.com/efealtiparmakoglu/todo-scanner",
+    "description": "Finds TODO, FIXME, HACK, XXX and NOTE comments in a source tree and",
+    "language": "Rust",
+    "topics": [
+      "developer-tools",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "touchdown-cinema",
+    "url": "https://github.com/efealtiparmakoglu/touchdown-cinema",
+    "description": "🌒 The landing — the suicide-burn integrator replayed in real time on the crater field; 48 frames of the final six seconds, regolith spray at the exact contact frame, Earth behind. Blender Cycles.",
+    "language": "Python",
+    "topics": [
+      "3d",
+      "animation",
+      "blender",
+      "cycles",
+      "landing",
+      "procedural-generation",
+      "python",
+      "rendering",
+      "simulation",
+      "volumetric"
+    ],
+    "empty": false
+  },
+  {
+    "name": "train-cinema",
+    "url": "https://github.com/efealtiparmakoglu/train-cinema",
+    "description": "🚂 Functional steam locomotive from code — slider-crank kinematics, 90° quartered cranks, rigid side rods, piston stroke = 2r, gate-verified. Cycles.",
+    "language": "Python",
+    "topics": [
+      "3d",
+      "blender",
+      "cycles",
+      "kinematics",
+      "procedural",
+      "procedural-generation",
+      "python",
+      "rendering",
+      "simulation",
+      "steam-locomotive"
+    ],
+    "empty": false
+  },
+  {
+    "name": "treefind",
+    "url": "https://github.com/efealtiparmakoglu/treefind",
+    "description": "A gitignore-aware file finder in pure Go — find's ergonomics, fd's defaults, git's ignore rules.",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "git",
+      "go",
+      "terminal"
+    ],
+    "empty": false
+  },
+  {
+    "name": "ttyplot",
+    "url": "https://github.com/efealtiparmakoglu/ttyplot",
+    "description": "Real-time terminal plots from stdin — braille rendering, auto-scaling, zero dependencies beyond libc",
+    "language": "C",
+    "topics": [
+      "c",
+      "cli",
+      "terminal"
+    ],
+    "empty": false
+  },
+  {
+    "name": "txt2pdf",
+    "url": "https://github.com/efealtiparmakoglu/txt2pdf",
+    "description": "Plain text to PDF in pure C — built-in Courier, hand-built xref table, zero dependencies beyond libc",
+    "language": "C",
+    "topics": [
+      "c",
+      "cli",
+      "pdf",
+      "terminal"
+    ],
+    "empty": false
+  },
+  {
+    "name": "unitx",
+    "url": "https://github.com/efealtiparmakoglu/unitx",
+    "description": "A dimensional-analysis engine: unit conversion plus dimension",
+    "language": "Rust",
+    "topics": [
+      "algorithms",
+      "education",
+      "rust"
+    ],
+    "empty": false
+  },
+  {
+    "name": "watermark-studio",
+    "url": "https://github.com/efealtiparmakoglu/watermark-studio",
+    "description": "k-means color palette extraction from any image — WCAG contrast",
+    "language": "TypeScript",
+    "topics": [
+      "typescript",
+      "web"
+    ],
+    "empty": false
+  },
+  {
+    "name": "wavecraft",
+    "url": "https://github.com/efealtiparmakoglu/wavecraft",
+    "description": "Interactive WebGL ocean with Gerstner waves and Web Audio sea sound. One HTML page, no build step.",
+    "language": "HTML",
+    "topics": [
+      "gerstner-waves",
+      "glsl",
+      "graphics",
+      "realtime",
+      "web-audio",
+      "webgl2"
+    ],
+    "empty": false
+  },
+  {
+    "name": "wordfreq",
+    "url": "https://github.com/efealtiparmakoglu/wordfreq",
+    "description": "Word frequency and n-gram analyzer — Unicode-aware tokenization, TR/EN stopwords, zero dependencies.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "game",
+      "python",
+      "terminal",
+      "word-game"
+    ],
+    "empty": false
+  },
+  {
+    "name": "zipwalk",
+    "url": "https://github.com/efealtiparmakoglu/zipwalk",
+    "description": "Defensive ZIP extraction and auditing in Go — zip-slip, symlink and bomb protection. Standard librar",
+    "language": "Go",
+    "topics": [
+      "archive",
+      "data",
+      "go",
+      "zip"
+    ],
+    "empty": false
+  }
+]
