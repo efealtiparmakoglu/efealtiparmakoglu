@@ -4,9 +4,21 @@
 
 # Merhaba, ben Efe.
 
-Üsküp'te yazılım mühendisliği öğrencisi ve [Bananas Hosting](https://bananashosting.com) kurucu ortağıyım. Linux altyapısı, backend sistemleri ve otomasyon üzerine çalışıyorum. Kendi projelerimde geliştirici araçları yazıyor, matematiği görüntüye, harekete ve sese dönüştüren sistemler kuruyorum.
+Üsküp'te yazılım mühendisliği öğrencisi ve [Bananas Hosting](https://bananashosting.com) kurucu ortağıyım. Günlük işlerimde Linux sistem yönetimi, Python/PHP geliştirme, sunucu altyapısı ve müşteri ihtiyaçları bir araya geliyor. Kendi projelerimde geliştirici araçları yazıyor; matematiği grafik, hareket ve ses üzerinden keşfediyorum.
 
 [Portfolyo](https://efealtiparmakoglu.bananashosting.com) · [LinkedIn](https://www.linkedin.com/in/efealtiparmakoglu) · [E-posta](mailto:efealtiparmakoglu@bananashosting.com)
+
+## Geliştirdiğim ve işlettiğim işler
+
+**Bananas Hosting'i 2023'te kurduk.** Rolüm teknik altyapı, sunucu yönetimi, müşteri ilişkileri ve büyüme stratejisini kapsıyor. Müşterilerin kullandığı bir hizmet üzerinde çalışmak, yazılıma yaklaşımımı şekillendiriyor: ihtiyacı anlamak, işe yarayan bir sistem kurmak ve bakımını sürdürebilmek.
+
+| Odak | Çalışmalar |
+| --- | --- |
+| Altyapı | Linux sistem yönetimi, hosting hizmetleri ve sunucu operasyonları |
+| Yazılım | Python ve PHP ağırlıklı backend geliştirme ve otomasyon |
+| Girişimcilik | Teknik ihtiyaçları hizmete dönüştürme, müşteri desteği ve şirketin gelişimi |
+
+[Geçmişim ve çalışmalarım hakkında daha fazlası →](https://efealtiparmakoglu.bananashosting.com)
 
 ## Önce çalışan bir şey dene
 
@@ -68,6 +80,15 @@
 - **Yaratıcı kod:** render motorları, emülatörler, sayısal simülasyonlar ve prosedürel animasyon.
 
 Mekanizmasını inceleyebildiğim projeleri seviyorum: adımlarını takip edebildiğin bir derleyici, içini açabildiğin bir sıkıştırıcı ya da hareketini denklemlerden alan bir sahne.
+
+## Kısa yolculuğum
+
+| Dönem | Adım |
+| --- | --- |
+| 2019–2023 | TEV Orhan Çetin Fen Lisesi; mining ve kriptografi üzerine ilk çalışmalar |
+| 2023–2024 | 13 platforma ulaşan ilk e-ticaret girişimi |
+| 2023–bugün | Bananas Hosting kurucu ortaklığı |
+| Hâlen | Üsküp Kiril ve Metodi Üniversitesi'nde yazılım mühendisliği eğitimi |
 
 ## Kullandığım teknolojiler
 

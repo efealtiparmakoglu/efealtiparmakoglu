@@ -4,9 +4,21 @@
 
 # Hi, I'm Efe.
 
-Software engineering student in Skopje and co-founder of [Bananas Hosting](https://bananashosting.com). I work on Linux infrastructure, backend systems and automation. Outside that work, I build developer tools and explore how code can turn mathematics into images, motion and sound.
+I'm a software engineering student in Skopje and co-founder of [Bananas Hosting](https://bananashosting.com). My day-to-day work brings together Linux system administration, Python/PHP development, server infrastructure and customer needs. I also build developer tools and explore mathematics through graphics, motion and sound.
 
 [Portfolio](https://efealtiparmakoglu.bananashosting.com) · [LinkedIn](https://www.linkedin.com/in/efealtiparmakoglu) · [Email](mailto:efealtiparmakoglu@bananashosting.com)
+
+## What I build and operate
+
+I co-founded **Bananas Hosting in 2023**. My role covers technical infrastructure, server management, customer relationships and growth strategy. Working on a service used by customers shapes how I approach software: understand the problem, make the system useful, and keep it maintainable.
+
+| Focus | Work |
+| --- | --- |
+| Infrastructure | Linux system administration, hosting services and server operations |
+| Software | Backend development and automation, with Python and PHP as core tools |
+| Business | Turning technical needs into services, supporting customers and developing the company |
+
+[More about my work and background →](https://efealtiparmakoglu.bananashosting.com)
 
 ## Start with something you can try
 
@@ -68,6 +80,15 @@ Software engineering student in Skopje and co-founder of [Bananas Hosting](https
 - **Creative computing:** rendering, emulators, numerical simulations and procedural animation.
 
 I like projects where the mechanism is visible: a compiler you can follow, a codec you can inspect, or a scene whose motion comes from equations.
+
+## A short timeline
+
+| Period | Milestone |
+| --- | --- |
+| 2019–2023 | TEV Orhan Çetin Science High School; early projects in mining and cryptography |
+| 2023–2024 | First e-commerce venture, reaching 13 platforms |
+| 2023–present | Co-founder of Bananas Hosting |
+| Currently | Studying software engineering at Ss. Cyril and Methodius University in Skopje |
 
 ## Toolkit
 
