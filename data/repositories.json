@@ -1034,18 +1034,18 @@
     "name": "efealtiparmakoglu",
     "url": "https://github.com/efealtiparmakoglu/efealtiparmakoglu",
     "description": "Software engineering, Linux infrastructure and creative computing — selected projects, live demos and a public repository catalog.",
-    "language": null,
+    "language": "Python",
     "topics": [
-      "profile",
-      "portfolio",
-      "software-engineering",
-      "linux",
+      "computer-graphics",
       "devops",
+      "golang",
+      "linux",
+      "portfolio",
+      "procedural-generation",
+      "profile",
       "python",
       "rust",
-      "golang",
-      "computer-graphics",
-      "procedural-generation"
+      "software-engineering"
     ],
     "empty": false
   },
@@ -1170,11 +1170,11 @@
     "description": "Terminal 2048 in C11 with animated tiles, a 16-state undo stack, persistent best scores and deterministic seeds.",
     "language": "C",
     "topics": [
+      "2048",
       "c",
       "cli",
       "game",
-      "terminal",
-      "2048"
+      "terminal"
     ],
     "empty": false
   },
@@ -2331,11 +2331,11 @@
     "description": "From-scratch 32-bit CPU emulator, assembler and CIN compiler, running framebuffer programs rendered as GIFs.",
     "language": "Python",
     "topics": [
-      "python",
-      "cpu-emulator",
       "assembler",
       "compiler",
       "computer-architecture",
+      "cpu-emulator",
+      "python",
       "simulation"
     ],
     "empty": false
@@ -2621,10 +2621,15 @@
   {
     "name": "watermark-studio",
     "url": "https://github.com/efealtiparmakoglu/watermark-studio",
-    "description": "k-means color palette extraction from any image — WCAG contrast",
+    "description": "Batch text watermarks for images with grid positioning, tiled coverage, live preview and local PNG downloads.",
     "language": "TypeScript",
     "topics": [
+      "canvas",
+      "image-processing",
+      "offline",
+      "privacy",
       "typescript",
+      "watermark",
       "web"
     ],
     "empty": false

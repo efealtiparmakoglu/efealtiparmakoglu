@@ -6,9 +6,9 @@ Public repositories grouped by primary language. Descriptions explain the scope;
 
 Açık repolar ana dillerine göre gruplandı. Açıklamalar proje kapsamını anlatır; test kapsamı ya da üretime hazır olma garantisi değildir.
 
-**200 public repositories** · Data snapshot: 2026-10-17
+**200 public repositories** · Data snapshot: 2026-10-18
 
-[Python (73)](#python) · [Go (44)](#go) · [Rust (44)](#rust) · [TypeScript (19)](#typescript) · [C (12)](#c) · [JavaScript (2)](#javascript) · [Other (2)](#other) · [Swift (2)](#swift) · [HTML (1)](#html) · [Placeholders (1)](#placeholders)
+[Python (74)](#python) · [Go (44)](#go) · [Rust (44)](#rust) · [TypeScript (19)](#typescript) · [C (12)](#c) · [JavaScript (2)](#javascript) · [Swift (2)](#swift) · [HTML (1)](#html) · [Other (1)](#other) · [Placeholders (1)](#placeholders)
 
 ## Python
 
@@ -45,6 +45,7 @@ Açık repolar ana dillerine göre gruplandı. Açıklamalar proje kapsamını a
 | [dosyatekileder](https://github.com/efealtiparmakoglu/dosyatekileder) | Deduplicate record streams by normalized SHA-256 identity while preserving the first original record byte-for-byte. |
 | [dosyatemizler](https://github.com/efealtiparmakoglu/dosyatemizler) | Normalize messy text files with consistent encodings, line endings, BOM handling and whitespace cleanup. |
 | [dosyazamanlar](https://github.com/efealtiparmakoglu/dosyazamanlar) | Analyze timestamped JSONL traces into call trees, total/self times, slow-frame flags and unbalanced-event reports. |
+| [efealtiparmakoglu](https://github.com/efealtiparmakoglu/efealtiparmakoglu) | Software engineering, Linux infrastructure and creative computing — selected projects, live demos and a public repository catalog. |
 | [f1-cinema](https://github.com/efealtiparmakoglu/f1-cinema) | Parametric 2024-spec F1 car built in code — ~110 procedural Blender parts, FIA dimension gates verified automatically, Cycles studio renders + turntable. |
 | [f16-cinema](https://github.com/efealtiparmakoglu/f16-cinema) | F-16C Fighting Falcon built entirely in code — lofted fuselage, AIM-9s, flickering afterburner, flying through clouds. Spec-verified, Cycles render. |
 | [fluid-cinema](https://github.com/efealtiparmakoglu/fluid-cinema) | JSON-driven 2D Navier-Stokes fluid studio — fire, vortex streets and nebulae from one JSON file. From-scratch Stable Fluids in NumPy, GIF out. |
@@ -208,7 +209,7 @@ Açık repolar ana dillerine göre gruplandı. Açıklamalar proje kapsamını a
 | [pathfinder](https://github.com/efealtiparmakoglu/pathfinder) | Watch A\, Dijkstra and BFS race through the same maze in your |
 | [stego-studio](https://github.com/efealtiparmakoglu/stego-studio) | Educational LSB steganography: hide text messages inside the least |
 | [sudoku-web](https://github.com/efealtiparmakoglu/sudoku-web) | Offline client-side sudoku: generator, solver, hints, pencil notes |
-| [watermark-studio](https://github.com/efealtiparmakoglu/watermark-studio) | k-means color palette extraction from any image — WCAG contrast |
+| [watermark-studio](https://github.com/efealtiparmakoglu/watermark-studio) | Batch text watermarks for images with grid positioning, tiled coverage, live preview and local PNG downloads. |
 
 ## C
 
@@ -234,13 +235,6 @@ Açık repolar ana dillerine göre gruplandı. Açıklamalar proje kapsamını a
 | [mdindex](https://github.com/efealtiparmakoglu/mdindex) | Markdown table-of-contents generator with GitHub-compatible anchors. Zero dependencies. |
 | [regextoy](https://github.com/efealtiparmakoglu/regextoy) | A from-scratch regex engine in plain Node.js — backtracking matcher, capture groups, zero dependenci |
 
-## Other
-
-| Project | What it does |
-| --- | --- |
-| [csv-visualizer](https://github.com/efealtiparmakoglu/csv-visualizer) | Drag-and-drop CSV charting — entirely client-side, no uploads, no |
-| [efealtiparmakoglu](https://github.com/efealtiparmakoglu/efealtiparmakoglu) | Software engineering, Linux infrastructure and creative computing — selected projects, live demos and a public repository catalog. |
-
 ## Swift
 
 | Project | What it does |
@@ -253,6 +247,12 @@ Açık repolar ana dillerine göre gruplandı. Açıklamalar proje kapsamını a
 | Project | What it does |
 | --- | --- |
 | [wavecraft](https://github.com/efealtiparmakoglu/wavecraft) | Interactive WebGL ocean with Gerstner waves and Web Audio sea sound. One HTML page, no build step. |
+
+## Other
+
+| Project | What it does |
+| --- | --- |
+| [csv-visualizer](https://github.com/efealtiparmakoglu/csv-visualizer) | Drag-and-drop CSV charting — entirely client-side, no uploads, no |
 
 ## Placeholders
 
