@@ -70,6 +70,20 @@ I co-founded **Bananas Hosting in 2023**. My role covers technical infrastructur
       Light bending from Schwarzschild geodesics and a relativistic accretion disk.
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/efealtiparmakoglu/lightning-cinema"><img src="https://raw.githubusercontent.com/efealtiparmakoglu/lightning-cinema/main/renders/lightning_profile.gif" width="100%" alt="Lightning / Simulation" /></a><br />
+      <h3><a href="https://github.com/efealtiparmakoglu/lightning-cinema">lightning-cinema</a></h3>
+      <sub>Lightning / Simulation</sub><br /><br />
+      A stepped leader and return stroke from a dielectric-breakdown model; the scene is lit by the current itself.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/efealtiparmakoglu/chladni-cinema"><img src="https://raw.githubusercontent.com/efealtiparmakoglu/chladni-cinema/main/renders/chladni_profile.gif" width="100%" alt="Chladni figures / Wave physics" /></a><br />
+      <h3><a href="https://github.com/efealtiparmakoglu/chladni-cinema">chladni-cinema</a></h3>
+      <sub>Chladni figures / Wave physics</sub><br /><br />
+      Sand migrating to the nodal lines of a plate solved with a 2D wave equation.
+    </td>
+  </tr>
 </table>
 
 [Explore all public projects →](PROJECTS.md) · [Browse the full cinema gallery →](docs/cinema-gallery.md)
@@ -81,6 +95,8 @@ I co-founded **Bananas Hosting in 2023**. My role covers technical infrastructur
 - **Creative computing:** rendering, emulators, numerical simulations and procedural animation.
 
 I like projects where the mechanism is visible: a compiler you can follow, a codec you can inspect, or a scene whose motion comes from equations.
+
+**The cinema series runs on one rule:** every claim has to pass a numerical gate. The physics is solved in plain Python, Blender only carries the solution, and nothing is eased by hand — a lightning bolt is a dielectric-breakdown model, sand on a plate is a wave equation, ferrofluid spikes are a magnetohydrodynamic instability.
 
 ## A short timeline
 

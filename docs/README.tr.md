@@ -70,6 +70,20 @@
       Schwarzschild geodeziklerinden ışık bükülmesi ve akresyon diski.
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/efealtiparmakoglu/lightning-cinema"><img src="https://raw.githubusercontent.com/efealtiparmakoglu/lightning-cinema/main/renders/lightning_profile.gif" width="100%" alt="Lightning / Simulation" /></a><br />
+      <h3><a href="https://github.com/efealtiparmakoglu/lightning-cinema">lightning-cinema</a></h3>
+      <sub>Lightning / Simulation</sub><br /><br />
+      Dielektrik kırılma modelinden kademeli lider ve dönüş stroku; sahne akımın kendisiyle aydınlanıyor.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/efealtiparmakoglu/chladni-cinema"><img src="https://raw.githubusercontent.com/efealtiparmakoglu/chladni-cinema/main/renders/chladni_profile.gif" width="100%" alt="Chladni figures / Wave physics" /></a><br />
+      <h3><a href="https://github.com/efealtiparmakoglu/chladni-cinema">chladni-cinema</a></h3>
+      <sub>Chladni figures / Wave physics</sub><br /><br />
+      2B dalga denklemiyle çözülen plakada kumun nodal çizgilere göçü.
+    </td>
+  </tr>
 </table>
 
 [Tüm açık projeleri keşfet →](../PROJECTS.md) · [Sinema galerisini gez →](cinema-gallery.md)
@@ -81,6 +95,8 @@
 - **Yaratıcı kod:** render motorları, emülatörler, sayısal simülasyonlar ve prosedürel animasyon.
 
 Mekanizmasını inceleyebildiğim projeleri seviyorum: adımlarını takip edebildiğin bir derleyici, içini açabildiğin bir sıkıştırıcı ya da hareketini denklemlerden alan bir sahne.
+
+**Sinema serisinin tek kuralı şu:** her iddia bir sayısal kapıdan geçmek zorunda. Fizik düz Python'da çözülüyor, Blender yalnızca çözümü taşıyor, hiçbir şey elle yumuşatılmıyor — yıldırım bir dielektrik kırılma modeli, plakadaki kum bir dalga denklemi, ferrofluid dikenleri manyetohidrodinamik bir kararsızlık.
 
 ## Kısa yolculuğum
 

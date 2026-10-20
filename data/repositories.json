@@ -134,6 +134,25 @@
     "empty": false
   },
   {
+    "name": "chladni-cinema",
+    "url": "https://github.com/efealtiparmakoglu/chladni-cinema",
+    "description": "Chladni patterns from a real 2D wave equation — sand migrates to the nodal lines / Gerçek 2B dalga denkleminden Chladni desenleri",
+    "language": "Python",
+    "topics": [
+      "blender",
+      "chladni",
+      "cycles",
+      "fdtd",
+      "numpy",
+      "physics",
+      "procedural",
+      "python",
+      "simulation",
+      "wave-equation"
+    ],
+    "empty": true
+  },
+  {
     "name": "cipher-studio",
     "url": "https://github.com/efealtiparmakoglu/cipher-studio",
     "description": "Classical cipher workbench — six ciphers, the statistics that break them, and attacks that actually ",
@@ -1115,6 +1134,25 @@
     "empty": false
   },
   {
+    "name": "ferrofluid-cinema",
+    "url": "https://github.com/efealtiparmakoglu/ferrofluid-cinema",
+    "description": "Ferrofluid spikes from the Rosensweig instability — real magnetohydrodynamics / Gerçek manyetohidrodinamikten ferrofluid dikenleri",
+    "language": "Python",
+    "topics": [
+      "blender",
+      "cycles",
+      "ferrofluid",
+      "magnetohydrodynamics",
+      "numpy",
+      "physics",
+      "procedural",
+      "python",
+      "rosensweig",
+      "simulation"
+    ],
+    "empty": true
+  },
+  {
     "name": "filewatch",
     "url": "https://github.com/efealtiparmakoglu/filewatch",
     "description": "Watch a directory, run a command on changes — polling watcher with debounce, glob filters and placeh",
@@ -1745,6 +1783,25 @@
     "empty": false
   },
   {
+    "name": "lightning-cinema",
+    "url": "https://github.com/efealtiparmakoglu/lightning-cinema",
+    "description": "Stepped-leader lightning from a dielectric breakdown model — the scene is lit by the simulated current / Dielektrik kırılma modelinden yıldırım",
+    "language": "Python",
+    "topics": [
+      "blender",
+      "cycles",
+      "dielectric-breakdown",
+      "lightning",
+      "numpy",
+      "physics",
+      "procedural",
+      "python",
+      "simulation",
+      "storm"
+    ],
+    "empty": true
+  },
+  {
     "name": "linkage-studio",
     "url": "https://github.com/efealtiparmakoglu/linkage-studio",
     "description": "Blender add-on: Jansen-linkage walking machines from closed-form kinematics / Kapalı-form kinematikle yürüyen Strandbeest makineleri",
@@ -1905,6 +1962,25 @@
       "python"
     ],
     "empty": false
+  },
+  {
+    "name": "murmur-cinema",
+    "url": "https://github.com/efealtiparmakoglu/murmur-cinema",
+    "description": "Four thousand birds at sunset — a real boids simulation where every bird solves the same equations each frame / Gün batımında 4.000 kuş — her karede aynı denklemleri çözen gerçek boids simülasyonu",
+    "language": "Python",
+    "topics": [
+      "blender",
+      "boids",
+      "cycles",
+      "flocking",
+      "numpy",
+      "physics",
+      "procedural",
+      "python",
+      "simulation",
+      "sunset"
+    ],
+    "empty": true
   },
   {
     "name": "netstat-lite",

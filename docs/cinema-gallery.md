@@ -4,7 +4,42 @@
 
 Kural hep aynı: **sıfırdan motor, ölçülebilir fizik, tek komutla render.** Hiçbirinde hazır asset yok — her parça kodla inşa edilir, her iddia bir doğrulama kapısından geçer. Blender makinelerinde de aynı sözleşme: mekanizma çözümü saf Python'da, anahtarlar gerçek çözümden, easing yasak.
 
-### 🌕 Ay üçlemesi — en yeni
+### ⚡ Fizik laboratuvarı — en yeni
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/lightning-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/lightning-cinema/main/renders/lightning_profile.gif" width="100%" alt="lightning-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/lightning-cinema">lightning-cinema</a></b><br/>
+      <sub>Dielektrik kırılma modelinden yıldırım — kademeli lider + dönüş stroku; sahne akımın √I'siyle aydınlanıyor. 8 kapı.</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/chladni-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/chladni-cinema/main/renders/chladni_profile.gif" width="100%" alt="chladni-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/chladni-cinema">chladni-cinema</a></b><br/>
+      <sub>Sesin şekilleri — 2B dalga denklemi (FDTD) ile plaka; kum nodal çizgilere göçüyor, mod değişince desen değişiyor. 7 kapı.</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/ferrofluid-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/ferrofluid-cinema/main/renders/ferrofluid_profile.gif" width="100%" alt="ferrofluid-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/ferrofluid-cinema">ferrofluid-cinema</a></b><br/>
+      <sub>Rosensweig kararsızlığı — eşik alanı geçilince düz yüzey altıgen dikenlere dönüşüyor; FFT'de 60° aralıklı üç tepe. 7 kapı.</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/efealtiparmakoglu/murmur-cinema">
+        <img src="https://raw.githubusercontent.com/efealtiparmakoglu/murmur-cinema/main/renders/murmur_profile.gif" width="100%" alt="murmur-cinema"/>
+      </a>
+      <b><a href="https://github.com/efealtiparmakoglu/murmur-cinema">murmur-cinema</a></b><br/>
+      <sub>Gün batımında 4.000 kuş — gerçek boids dinamiği; şahin sürüyü yarıp toparlatıyor. 6 kapı.</sub>
+    </td>
+  </tr>
+</table>
+
+### 🌕 Ay üçlemesi
 
 <table>
   <tr>

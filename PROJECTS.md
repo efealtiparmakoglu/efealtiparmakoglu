@@ -6,9 +6,9 @@ Public repositories grouped by primary language. Descriptions explain the scope;
 
 Açık repolar ana dillerine göre gruplandı. Açıklamalar proje kapsamını anlatır; test kapsamı ya da üretime hazır olma garantisi değildir.
 
-**200 public repositories** · Data snapshot: 2026-10-18
+**204 public repositories** · Data snapshot: 2026-10-20
 
-[Python (74)](#python) · [Go (44)](#go) · [Rust (44)](#rust) · [TypeScript (19)](#typescript) · [C (12)](#c) · [JavaScript (2)](#javascript) · [Swift (2)](#swift) · [HTML (1)](#html) · [Other (1)](#other) · [Placeholders (1)](#placeholders)
+[Python (74)](#python) · [Go (44)](#go) · [Rust (44)](#rust) · [TypeScript (19)](#typescript) · [C (12)](#c) · [JavaScript (2)](#javascript) · [Swift (2)](#swift) · [HTML (1)](#html) · [Other (1)](#other) · [Placeholders (5)](#placeholders)
 
 ## Python
 
@@ -258,7 +258,11 @@ Açık repolar ana dillerine göre gruplandı. Açıklamalar proje kapsamını a
 
 | Project | What it does |
 | --- | --- |
+| [chladni-cinema](https://github.com/efealtiparmakoglu/chladni-cinema) | Chladni patterns from a real 2D wave equation — sand migrates to the nodal lines / Gerçek 2B dalga denkleminden Chladni desenleri |
 | [dosyakuyruklar](https://github.com/efealtiparmakoglu/dosyakuyruklar) | Repository placeholder; no source files have been published. |
+| [ferrofluid-cinema](https://github.com/efealtiparmakoglu/ferrofluid-cinema) | Ferrofluid spikes from the Rosensweig instability — real magnetohydrodynamics / Gerçek manyetohidrodinamikten ferrofluid dikenleri |
+| [lightning-cinema](https://github.com/efealtiparmakoglu/lightning-cinema) | Stepped-leader lightning from a dielectric breakdown model — the scene is lit by the simulated current / Dielektrik kırılma modelinden yıldırım |
+| [murmur-cinema](https://github.com/efealtiparmakoglu/murmur-cinema) | Four thousand birds at sunset — a real boids simulation where every bird solves the same equations each frame / Gün batımında 4.000 kuş — her karede aynı denklemleri çözen gerçek boids simülasyonu |
 
 ---
 
