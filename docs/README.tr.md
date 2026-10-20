@@ -61,6 +61,7 @@
       <h3><a href="https://github.com/efealtiparmakoglu/linkage-studio">linkage-studio</a></h3>
       <sub>Walking machines / Kinematics</sub><br /><br />
       Jansen mekanizmasının kapalı-form çözümüyle çalışan Blender eklentisi.
+      <br /><br /><a href="https://github.com/efealtiparmakoglu/linkage-studio/releases/latest/download/linkage_studio.zip">Blender eklentisini indir →</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/efealtiparmakoglu/gargantua-cinema"><img src="https://raw.githubusercontent.com/efealtiparmakoglu/gargantua-cinema/main/renders/gargantua_profile.gif" width="100%" alt="Black-hole lensing / Simulation" /></a><br />

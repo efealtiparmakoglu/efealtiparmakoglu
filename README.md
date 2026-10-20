@@ -61,6 +61,7 @@ I co-founded **Bananas Hosting in 2023**. My role covers technical infrastructur
       <h3><a href="https://github.com/efealtiparmakoglu/linkage-studio">linkage-studio</a></h3>
       <sub>Walking machines / Kinematics</sub><br /><br />
       A Blender add-on driven by a closed-form solution of the Jansen linkage.
+      <br /><br /><a href="https://github.com/efealtiparmakoglu/linkage-studio/releases/latest/download/linkage_studio.zip">Download Blender add-on →</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/efealtiparmakoglu/gargantua-cinema"><img src="https://raw.githubusercontent.com/efealtiparmakoglu/gargantua-cinema/main/renders/gargantua_profile.gif" width="100%" alt="Black-hole lensing / Simulation" /></a><br />
